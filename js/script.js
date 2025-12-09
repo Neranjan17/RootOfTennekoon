@@ -24,13 +24,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // temptery dommy data load
     addMemberAlternateName('Podi rala', 'Society nickname');
     addMemberAlternateName('Kuda bandara', 'Society nickname');
-    
 
-    addMemberPersonalInfo('Gender', 'Male');
-    addMemberPersonalInfo('Lived', 'Nugegoda from 1934 to 1985');
-    addMemberPersonalInfo('Birth', '1945 November 23 In Colombo');
-    addMemberPersonalInfo('Death', '2018 September 05 In Colombo');
-    addMemberPersonalInfo('Death cause', 'Old Age');
+
+    
 
     addMemberRoleInfo('Military Officer', 'In Royal Palace from 1950 to 1988');
 
@@ -337,18 +333,9 @@ function addMemberAlternateName(name, context) {
     container.appendChild(clone);
 }
 
-function addMemberPersonalInfo(infoName, infoValue) {
-    const container = document.getElementById('memberInfoPersonalInfoContainer');
-    const template = document.getElementById('memberInfoPersonalInfoItemTemplate');
-  
-    const clone = template.content.cloneNode(true);
-    const name = clone.querySelector('.memberInfoItem-personalInfoName');
-    const value = clone.querySelector('.memberInfoItem-personalInfoValue');
-    name.textContent = infoName;
-    value.textContent = infoValue;
-    
-    container.appendChild(clone);
-}
+
+
+
 
 function addMemberRoleInfo(roleName, roleInfo) {
     const container = document.getElementById('memberInfoRolesContainer');

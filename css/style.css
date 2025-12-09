@@ -686,20 +686,28 @@ section {
 }
 
 
-
-/* Member info personal info div styles */
-.memberInfo-personalInfo-div {
-}
-
-.memberInfo-personalInfoItemDiv {
+/* Member info Biographical div styles */
+.memberInfo-birthInfo-div {
     width: 100%;
     height: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
-    padding: 5px 0px;
+    padding: 8px 0px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
+
+.memberInfo-birthInfo-icon {
+    width: 40px;
+    height: auto;
+}
+
+.memberInfo-birthInfo-textDiv {
+    margin-left: 10px;
+}
+
+
+
 
 
 /* Member info description div styles */

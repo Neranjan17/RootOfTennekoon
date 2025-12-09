@@ -155,13 +155,23 @@
 
             <div class="memberInfo-column memberInfo-column-two">
 
-                <div class="memberInfo-div memberInfo-personalInfo-div">
+
+                <div class="memberInfo-div memberInfo-bioInfo-div">
 
                     <div class="memberInfo-div-subDiv">
-                        <h3 class="memberInfo-div-headerText">Personal Info</h3>
+                        <h3 class="memberInfo-div-headerText">Biographical Data</h3>
                     </div>
 
-                    <div id="memberInfoPersonalInfoContainer" class="memberInfo-div-mainDiv">
+                    <div class="memberInfo-div-mainDiv">
+
+                        <div class="memberInfo-birthInfo-div">
+                            <img class="memberInfo-birthInfo-icon" src="images/birth-icons.svg">
+                            <div class="memberInfo-birthInfo-textDiv">
+                                <h6 id="memberInfoBirthInfoMainText" class="memberInfo-div-secondaryText">Born 2 November 1988 in Colombo</h6>
+                                <h6 id="memberInfoBirthInfoSubText" class="memberInfo-div-tertiaryText">Registered in Colombo, born in Nugegoda.</h6>
+                            </div>
+                        </div>
+
                     </div>
 
                 </div>
@@ -272,15 +282,9 @@
 
     </template>
 
-    <!-- Template for personal Info items in member Info -->
-    <template id="memberInfoPersonalInfoItemTemplate">
 
-        <div class="memberInfo-personalInfoItemDiv">
-            <h6 class="memberInfoItem-personalInfoName memberInfo-div-primaryText"></h6>
-            <h6 class="memberInfoItem-personalInfoValue memberInfo-div-secondaryText"></h6>
-        </div>
 
-    </template>
+
 
     <!-- Template for role items in member Info -->
     <template id="memberInfoRoleItemTemplate">
@@ -352,7 +356,7 @@
 
     </template>
 
-      <!-- Template for Sources items in member Info -->
+    <!-- Template for Sources items in member Info -->
     <template id="memberInfoSourceItemTemplate">
 
         <div class="memberInfo-sourceItemDiv">
