@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, 
+          initial-scale=1.0">
+    <title>Roots of Tennekoon</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/icon.png" />
+</head>
+
+<body>
+
+
+    <header>
+
+        <img id="webLogo" class="logo-img" src="images/web-logo.svg" alt="Roots of Tennekoon" />
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#familyTree">Family tree</a>
+            <a href="#FindMember">Find Member</a>
+        </nav>
+
+    </header>
+
+    <!-- Animations Canvas -->
+    <canvas id="bgAnimationCanvas">
+    </canvas>
+
+    <!-- Background Image Container -->
+    <div id="bgImageContainer">
+    </div>
+
+    <!-- Family tree viewports Container -->
+    <div class="treeMember-view-holder-panel">
+        <div id="treeMember-viewport-div" class="treeMember-viewport treeMember-viewport-square">
+        </div>
+
+        <div id="root-treeMember-viewport-div" class="root-treeMember-viewport treeMember-viewport-square">
+        </div>
+    </div>
+
+    <!-- Home Section -->
+    <section id="home">
+        <div class="home-container">
+            <H1>Welcome to Our Website</H1>
+            <p>Our story spans centuries, tracing the lives, traditions, and achievements of generations past.
+                This website preserves our family history - honouring those who came before us and guiding those
+                who will follow.</p>
+            <a href="#familyTree" class="cta-button">
+                Explore the Family Tree
+            </a>
+        </div>
+    </section>
+
+    <!-- Family tree Section -->
+    <section id="familyTree">
+
+        <div id="familyTreeContainer" class="familyTree-container">
+        </div>
+
+        <div class="gradient-panel">
+        </div>
+
+        <div id="tree-personInfo-container" class="family-tree-sidePanel">
+            <div class="personHeader-container">
+                <img id="tree-personInfo-img" src="images/empty-profile-pic.svg" alt="Persons Picture">
+
+                <div class="headerText-container">
+                    <H1 id="tree-personInfo-header"></H1>
+                    <H4 id="tree-personInfo-subHeader"></H4>
+                </div>
+
+            </div>
+
+            <p id="tree-personInfo-desc"></p>
+        </div>
+
+        <div id="tree-personSearch-container" class="family-tree-sidePanel">
+            <H1 id="personSearch-header">Find your member</H1>
+
+            <div class="search-box">
+                <input type="text" class="member-search-input" id="treeSearchInput" placeholder="Search by name...">
+                <img src="images/search-icon.svg" alt="Search" class="search-member-icon">
+            </div>
+
+            <span class="member-search-error-span" id="treeSearchErrorSpan"></span>
+            <button class="member-search-button" id="tree-searchButton">Search the member</button>
+        </div>
+
+        <div class="tree-tool-bar">
+            <div id="toolbarSearchIcon" class="tree-toolbar-icon icon-search"></div>
+            <div id="toolbarResetIcon" class="tree-toolbar-icon icon-reset"></div>
+            <div id="toolbarFullscreenIcon" class="tree-toolbar-icon icon-fullscreen"></div>
+            <div id="toolbarDownloadIcon" class="tree-toolbar-icon icon-download"></div>
+        </div>
+
+    </section>
+
+    <!-- Find Member Section -->
+    <section id="FindMember">
+
+        <div class="gradient-panel">
+        </div>
+
+        <div id="findMemberSearchContainer" class="member-search-container">
+            <H1 id="personSearch-header">Find your member</H1>
+
+            <div class="search-box">
+                <input type="text" class="member-search-input" id="memberSearchInput" placeholder="Search by name...">
+                <img src="images/search-icon.svg" alt="Search" class="search-member-icon">
+            </div>
+
+            <span class="member-search-error-span" id="memberSearchErrorSpan"></span>
+            <button class="member-search-button" id="member-searchButton">Search the member</button>
+        </div>
+
+        <div id="memberInfoContainer" class="member-Info-container">
+
+            <div class="memberInfo-column memberInfo-column-one">
+
+                <div class="memberInfo-div memberInfo-search-div">
+                    <img src="images/search-icon.svg" alt="Search" class="memberInfo-search-icon">
+                    <h1 class="memberInfo-search-IdView">MID-0001</h1>
+                </div>
+
+                <div class="memberInfo-div memberInfo-main-div">
+
+                    <div class="memberInfo-mainData-div">
+                        <img class="memberInfo-member-pic" src="images/empty-profile-pic.svg" alt="Persons Picture">
+                        <h3 class="memberInfo-member-shortName">Unkonwn name</h3>
+                        <h4 class="memberInfo-member-fullName">Unkonwn full name</h4>
+                        <h6 class="memberInfo-member-lineageName">Member of Unkonwn lineage</h6>
+                    </div>
+
+                    <div class="memberInfo-viewOnTreeBtn-div">
+                        <button class="memberInfo-viewOnTree-btn" type="button">View on Family Tree</button>
+                    </div>
+                </div>
+
+                <div class="memberInfo-div memberInfo-AltName-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Alternate names</h3>
+                    </div>
+
+                    <div id="memberInfoAltNameContainer" class="memberInfo-div-mainDiv">
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="memberInfo-column memberInfo-column-two">
+
+                <div class="memberInfo-div memberInfo-personalInfo-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Personal Info</h3>
+                    </div>
+
+                    <div id="memberInfoPersonalInfoContainer" class="memberInfo-div-mainDiv">
+                    </div>
+
+                </div>
+
+                <div class="memberInfo-div memberInfo-description-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Description</h3>
+                    </div>
+
+                    <div class="memberInfo-div-mainDiv">
+                        <p id="memberInfoDescriptionText" class="memberInfo-div-secondaryText">Wijesinghe Bandara was
+                            the eldest biological son of the influential court official, Keerthi Lekam, born into a
+                            promine</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="memberInfo-column memberInfo-column-three">
+
+                <div class="memberInfo-div memberInfo-roles-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Role and status</h3>
+                    </div>
+
+                    <div id="memberInfoRolesContainer" class="memberInfo-div-mainDiv">
+                    </div>
+
+                </div>
+
+                <div class="memberInfo-div memberInfo-marriageInfo-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Marriage Info</h3>
+                    </div>
+
+                    <div class="memberInfo-div-mainDiv">
+
+                        <div id="memberInfoWifeInfoContainer" class="memberInfo-wifeInfo-container">
+                        </div>
+
+                        <div class="memberInfo-div-child-header">
+                            <h6 class="memberInfo-div-primaryText">Children’s</h6>
+                        </div>
+
+                        <div id="memberInfoChildInfoContainer" class="memberInfo-childInfo-container">
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="memberInfo-column memberInfo-column-four">
+
+                <div class="memberInfo-div memberInfo-familyInfo-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Family Info</h3>
+                    </div>
+
+                    <div class="memberInfo-div-mainDiv">
+
+                        <div id="memberInfoParentsInfoContainer" class="memberInfo-parentsInfo-container">
+                        </div>
+
+                        <div class="memberInfo-div-siblings-header">
+                            <h6 class="memberInfo-div-primaryText">Siblings</h6>
+                        </div>
+
+                        <div id="memberInfoSiblingsInfoContainer" class="memberInfo-siblingsInfo-container">
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="memberInfo-div memberInfo-sources-div">
+
+                    <div class="memberInfo-div-subDiv">
+                        <h3 class="memberInfo-div-headerText">Sources</h3>
+                    </div>
+
+                    <div id="memberInfoSourceContainer" class="memberInfo-div-mainDiv">
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Template for alternate name items in member Info -->
+    <template id="memberInfoAltNameItemTemplate">
+
+        <div class="memberInfo-altNameItemDiv">
+            <img class="memberInfo-AltName-icon" src="images/name-icon.svg">
+            <div class="memberInfo-AltNameItem-textDiv">
+                <h6 class="memberInfoItem-AltName memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-AltName-context memberInfo-div-tertiaryText"></h6>
+            </div>
+        </div>
+
+    </template>
+
+    <!-- Template for personal Info items in member Info -->
+    <template id="memberInfoPersonalInfoItemTemplate">
+
+        <div class="memberInfo-personalInfoItemDiv">
+            <h6 class="memberInfoItem-personalInfoName memberInfo-div-primaryText"></h6>
+            <h6 class="memberInfoItem-personalInfoValue memberInfo-div-secondaryText"></h6>
+        </div>
+
+    </template>
+
+    <!-- Template for role items in member Info -->
+    <template id="memberInfoRoleItemTemplate">
+
+        <div class="memberInfo-roleItemDiv">
+            <img class="memberInfo-role-icon" src="images/role-icon.svg">
+            <div class="memberInfo-roleItem-textDiv">
+                <h6 class="memberInfoItem-roleName memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-role-info memberInfo-div-tertiaryText"></h6>
+            </div>
+        </div>
+
+    </template>
+
+    <!-- Template for wife items in member Info -->
+    <template id="memberInfoWifeItemTemplate">
+
+        <div class="memberInfo-WifeInfoItemDiv">
+            <img class="memberInfo-wife-img" src="images/empty-profile-pic.svg">
+            <div class="memberInfo-wifeItem-textDiv">
+                <h6 class="memberInfoItem-marriageFate memberInfo-div-primaryText"></h6>
+                <h6 class="memberInfoItem-wifeName memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-marriageInfo memberInfo-div-tertiaryText"></h6>
+            </div>
+            <button class="memberInfo-showMoreBtn">More</button>
+        </div>
+
+    </template>
+
+    <!-- Template for child items in member Info -->
+    <template id="memberInfoChildItemTemplate">
+
+        <div class="memberInfo-childInfoItemDiv">
+            <img class="memberInfo-child-img" src="images/empty-profile-pic.svg">
+            <div class="memberInfo-childItem-textDiv">
+                <h6 class="memberInfoItem-childName memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-childInfo memberInfo-div-tertiaryText"></h6>
+            </div>
+            <button class="memberInfo-showMoreBtn">More</button>
+        </div>
+
+    </template>
+
+    <!-- Template for Parents items in member Info -->
+    <template id="memberInfoParentItemTemplate">
+
+        <div class="memberInfo-parentInfoItemDiv">
+            <img class="memberInfo-parent-img" src="images/empty-profile-pic.svg">
+            <div class="memberInfo-parentItem-textDiv">
+                <h6 class="memberInfoItem-parentRelation memberInfo-div-primaryText"></h6>
+                <h6 class="memberInfoItem-parentName memberInfo-div-tertiaryText"></h6>
+            </div>
+            <button class="memberInfo-showMoreBtn">More</button>
+        </div>
+
+    </template>
+
+    <!-- Template for Sibling items in member Info -->
+    <template id="memberInfoSiblingItemTemplate">
+
+        <div class="memberInfo-siblingInfoItemDiv">
+            <img class="memberInfo-sibling-img" src="images/empty-profile-pic.svg">
+            <div class="memberInfo-siblingItem-textDiv">
+                <h6 class="memberInfoItem-siblingRelation memberInfo-div-primaryText"></h6>
+                <h6 class="memberInfoItem-siblingName memberInfo-div-tertiaryText"></h6>
+            </div>
+            <button class="memberInfo-showMoreBtn">More</button>
+        </div>
+
+    </template>
+
+      <!-- Template for Sources items in member Info -->
+    <template id="memberInfoSourceItemTemplate">
+
+        <div class="memberInfo-sourceItemDiv">
+            <img class="memberInfo-source-icon" src="images/role-icon.svg">
+            <div class="memberInfo-sourceItem-textDiv">
+                <h6 class="memberInfoItem-souceName memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-souceNote memberInfo-div-tertiaryText"></h6>
+            </div>
+        </div>
+
+    </template>
+
+    <script type="module" src="js/script.js"></script>
+
+</body>
+
+</html>
