@@ -25,8 +25,8 @@ document.addEventListener("DOMContentLoaded", () => {
     addMemberAlternateName('Podi rala', 'Society nickname');
     addMemberAlternateName('Kuda bandara', 'Society nickname');
 
-
-    
+    addMemberLivedPlaceInfo('Colombo 03, from to 1988 to 2001', 'Wife’s home');
+    addMemberLivedPlaceInfo('Colombo 07, from to 1950 to 1988', 'Primary residence after university');
 
     addMemberRoleInfo('Military Officer', 'In Royal Palace from 1950 to 1988');
 
@@ -333,9 +333,18 @@ function addMemberAlternateName(name, context) {
     container.appendChild(clone);
 }
 
-
-
-
+function addMemberLivedPlaceInfo(mainText, subText) {
+    const container = document.getElementById('memberInfoLivedPlaceInfoContainer');
+    const template = document.getElementById('memberInfoLivedPlaceItemTemplate');
+  
+    const clone = template.content.cloneNode(true);
+    const main = clone.querySelector('.memberInfoItem-livedMainText-info');
+    const sub = clone.querySelector('.memberInfoItem-livedSubText-info');
+    main.textContent = mainText;
+    sub.textContent = subText;
+    
+    container.appendChild(clone);
+}
 
 function addMemberRoleInfo(roleName, roleInfo) {
     const container = document.getElementById('memberInfoRolesContainer');

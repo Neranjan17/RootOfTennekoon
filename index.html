@@ -172,6 +172,29 @@
                             </div>
                         </div>
 
+                        <div class="memberInfo-deathInfo-div">
+                            <img class="memberInfo-deathInfo-icon" src="images/death-icon.svg">
+                            <div class="memberInfo-deathInfo-textDiv">
+                                <h6 id="memberInfoDeathInfoMainText" class="memberInfo-div-secondaryText">Died 2 May 2025 in Colombo</h6>
+                                <h6 id="memberInfoDeathInfoSubText" class="memberInfo-div-tertiaryText">In Colombo at age of 37.</h6>
+                            </div>
+                        </div>
+
+                        <div class="memberInfo-genderInfo-div">
+                            <img class="memberInfo-genderInfo-icon" src="images/male-icon.svg">
+                            <div class="memberInfo-genderInfo-textDiv">
+                                <h6 id="memberInfoGenderInfoMainText" class="memberInfo-div-secondaryText">Male</h6>
+                                <h6 class="memberInfo-div-tertiaryText">Gender information</h6>
+                            </div>
+                        </div>
+
+                        <div class="memberInfo-div-livedPlace-header">
+                            <h6 class="memberInfo-div-primaryText">Lived Place</h6>
+                        </div>
+
+                        <div id="memberInfoLivedPlaceInfoContainer" class="memberInfo-livedPlaceInfo-container">
+                        </div>
+
                     </div>
 
                 </div>
@@ -282,9 +305,18 @@
 
     </template>
 
+    <!-- Template for Lived place items in member Info -->
+    <template id="memberInfoLivedPlaceItemTemplate">
 
+        <div class="memberInfo-livedPlaceInfoItemDiv">
+            <img class="memberInfo-livedPlace-img" src="images/home-icon.svg">
+            <div class="memberInfo-livedPlaceItem-textDiv">
+                <h6 class="memberInfoItem-livedMainText-info memberInfo-div-secondaryText"></h6>
+                <h6 class="memberInfoItem-livedSubText-info memberInfo-div-tertiaryText"></h6>
+            </div>
+        </div>
 
-
+    </template>
 
     <!-- Template for role items in member Info -->
     <template id="memberInfoRoleItemTemplate">

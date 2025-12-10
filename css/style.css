@@ -42,7 +42,7 @@ body {
     background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-    background: #353535;
+    background: #0f222e;
     border-radius: 5px;
 }
 
@@ -698,13 +698,95 @@ section {
 }
 
 .memberInfo-birthInfo-icon {
-    width: 40px;
+    width: 30px;
     height: auto;
 }
 
 .memberInfo-birthInfo-textDiv {
-    margin-left: 10px;
+    margin-left: 15px;
 }
+
+
+.memberInfo-deathInfo-div {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.memberInfo-deathInfo-icon {
+    width: 30px;
+    height: auto;
+}
+
+.memberInfo-deathInfo-textDiv {
+    margin-left: 15px;
+}
+
+.memberInfo-genderInfo-div {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.memberInfo-genderInfo-icon {
+    width: 30px;
+    height: auto;
+}
+
+.memberInfo-genderInfo-textDiv {
+    margin-left: 15px;
+}
+
+
+.memberInfo-div-livedPlace-header {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-bottom: 3px solid rgba(255, 255, 255, 0.10);
+}
+
+.memberInfo-livedPlaceInfoItemDiv {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.memberInfo-livedPlace-img {
+    width: 30px;
+    height: auto;
+}
+
+.memberInfo-livedPlaceItem-textDiv {
+    margin-left: 15px;
+}
+
+.memberInfo-livedPlaceInfo-container {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
