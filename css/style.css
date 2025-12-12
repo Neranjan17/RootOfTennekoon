@@ -233,11 +233,18 @@ section {
     justify-content: space-between;
     align-items: center;
     width: 20%;
-    padding: 15px;
+    padding: 10px 15px;
     position: absolute;
     bottom: 10px;
     right: 25px;
     z-index: 6;
+}
+
+.tree-tool-bar.active-bg {
+    backdrop-filter: blur(100px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
 }
 
 /* Each icon as a div */
@@ -571,6 +578,7 @@ section {
     position: relative;
     padding-left: 50px;
     overflow: visible;
+    cursor: pointer;
 }
 
 .memberInfo-search-IdView {
@@ -777,19 +785,6 @@ section {
 .memberInfo-livedPlaceInfo-container {
     width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Member info description div styles */

@@ -17,35 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
     initTreeToolBarListeners();
 
     //showFindMemberSearchPanel();
-    showMemberInfoContainer();
+    showFindMemberSearchPanel();
     initMemberSearch();
-
-
-    // temptery dommy data load
-    addMemberAlternateName('Podi rala', 'Society nickname');
-    addMemberAlternateName('Kuda bandara', 'Society nickname');
-
-    addMemberLivedPlaceInfo('Colombo 03, from to 1988 to 2001', 'Wife’s home');
-    addMemberLivedPlaceInfo('Colombo 07, from to 1950 to 1988', 'Primary residence after university');
-
-    addMemberRoleInfo('Military Officer', 'In Royal Palace from 1950 to 1988');
-
-    addMemberWifeInfo('../assets/members-img/person.png', 'Married wife', 'Dona Martha Kumari', 'Married In 1962 in Kotte, Colombo.', 'MID-0025');
-
-    addMemberChildInfo('../assets/members-img/person.png', 'Don Frisians silva', '1st son of Lalith kumara and Mala.', 'MID-0025');
-    addMemberChildInfo('../assets/members-img/person.png', 'Don Frisians silva', '2st son of Lalith kumara and Mala.', 'MID-0045');
-    addMemberChildInfo('../assets/members-img/person.png', 'Don Frisians silva', 'Son of Lalith kumara and Mala.', 'MID-0075');
-
-    addMemberParentInfo('../assets/members-img/person.png', 'Mother', 'Don Frisians silva', 'MID-0065');
-    addMemberParentInfo('../assets/members-img/person.png', 'Father', 'Don Frisians silva', 'MID-0068');
-    
-    addMemberSiblingInfo('../assets/members-img/person.png', 'Elder brother', 'Don Frisians silva', 'MID-0078');
-    addMemberSiblingInfo('../assets/members-img/person.png', 'Younger brother', 'Don Frisians silva', 'MID-0079');
-    addMemberSiblingInfo('../assets/members-img/person.png', 'Younger Sister', 'Don Frisians silva', 'MID-0080');
-
-    addMemberSourceInfo('../images/sourece-doc-icon.svg', 'Family Chronicle', 'Received training in royal military arts', 'null' );
-    addMemberSourceInfo('../images/sourece-img-icon.svg', 'Family Chronicle', 'Received training in royal military arts', 'null' );
-    addMemberSourceInfo('../images/sourece-img-icon.svg', 'Family Chronicle', 'Received training in royal military arts', 'null' );
 });
 
 /* -- Comon -- */
@@ -106,11 +79,16 @@ function findMemberByInputName(inputElement, errorViewSpan) {
         errorViewSpan.classList.add('show');
     }
     else if (typeof result === 'string') {
-        displayTreePersonInfoDiv(result);
-        if (familyTreeController) {
-            const centerCoords = getViewPortCenterCoordinate();
-            familyTreeController.autoPanToSvgElement(result, centerCoords.centerX, centerCoords.centerY);
-        }
+        displayMemberDataById(result);
+    }
+}
+
+function displayMemberDataById(Id) {
+    displayTreePersonInfoDiv(Id);
+    loadDataToFindMemberSectionById(Id);
+    if (familyTreeController) {
+        const centerCoords = getViewPortCenterCoordinate();
+        familyTreeController.autoPanToSvgElement(Id, centerCoords.centerX, centerCoords.centerY);
     }
 }
 
@@ -180,6 +158,7 @@ function initTreeToolBarListeners() {
     const TreeSearchContainer = document.getElementById('tree-personSearch-container');
     const personInfoContainer = document.getElementById('tree-personInfo-container');
     const familyTreeContainer = document.getElementById('familyTreeContainer');
+    const treeToolBarContainer = document.getElementById('treeToolBarContainer');
 
     if (fullscreenIcon) {
         fullscreenIcon.addEventListener('click', () => {
@@ -189,12 +168,14 @@ function initTreeToolBarListeners() {
                 personInfoContainer.classList.remove('show');
                 TreeSearchContainer.classList.remove('show');
                 familyTreeContainer.classList.add('show');
+                treeToolBarContainer.classList.add('active-bg');
             }
             else if (fullscreenIcon.classList.contains('icon-exit-fullscreen')) {
 
                 personInfoContainer.classList.remove('show');
                 TreeSearchContainer.classList.add('show');
-                familyTreeContainer.classList.remove('show')
+                familyTreeContainer.classList.remove('show');
+                treeToolBarContainer.classList.remove('active-bg');
             }
 
             fullscreenIcon.classList.toggle('icon-fullscreen');
@@ -289,7 +270,7 @@ function showFindMemberSearchPanel() {
     const findMemberSearchContainer = document.getElementById('findMemberSearchContainer');
     const memberInfoContainer = document.getElementById('memberInfoContainer');
     const searchErrorSpan = document.getElementById('memberSearchErrorSpan');
-    
+
     findMemberSearchContainer.classList.add('show');
     memberInfoContainer.classList.remove('show');
     searchErrorSpan.classList.remove('show');
@@ -320,49 +301,202 @@ function initMemberSearch() {
     }
 }
 
+
+
+function cleanShowFindMemberSection() {
+    const containers = [
+        'memberInfoAltNameContainer',
+        'memberInfoLivedPlaceInfoContainer',
+        'memberInfoRolesContainer',
+        'memberInfoWifeInfoContainer',
+        'memberInfoChildInfoContainer',
+        'memberInfoParentsInfoContainer',
+        'memberInfoSiblingsInfoContainer',
+        'memberInfoSourceContainer'
+    ];
+
+    containers.forEach(id => {
+        const container = document.getElementById(id);
+        if (container) {
+            container.innerHTML = '';
+        }
+    });
+
+    showMemberInfoContainer();
+}
+
+function loadDataToFindMemberSectionById(Id) {
+
+    const alternateNamesList = [
+        { name: "Podi rala", nameContext: "Society nickname" },
+        { name: "Kuda bandara", nameContext: "Society nickname" }
+    ];
+
+    const livedPlaceList = [
+        { mainText: "Colombo 03, from to 1988 to 2001", subText: "Wife’s home" },
+        { mainText: "Colombo 07, from to 1950 to 1988", subText: "Primary residence after university" }
+    ];
+
+    const roleAndStatusList = [
+        { roleName: "Military Officer", roleInfo: "In Royal Palace from 1940 to 1985" },
+    ];
+
+    const wivesDataList = [
+        { wifeImg: "../assets/members-img/person.png", marriageFate: "Married wife", wifeName: "Dona Martha Kumari", marriageInfo: "Married In 1962 in Kotte, Colombo.", wifeId: "MID-0078" }
+    ];
+
+    const childrenDataList = [
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "1st son of Lalith kumara and Mala.", childId: "MID-0038" },
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "2st son of Lalith kumara and Mala.", childId: "MID-0037" },
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "Son of Lalith kumara and Mala.", childId: "MID-0036" }
+    ];
+
+    const parentDataList = [
+        { parentImg: "../assets/members-img/person.png", parentRelation: "Mother", parentName: "Don Frisians silva", parentId: "MID-0098" },
+        { parentImg: "../assets/members-img/person.png", parentRelation: "Father", parentName: "Don Frisians silva", parentId: "MID-0098" }
+    ];
+
+    const siblingsDataList = [
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Elder brother", siblingName: "Don Frisians silva", siblingId: "MID-0098" },
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger brother", siblingName: "Don Frisians silva", siblingId: "MID-0098" },
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger Sister", siblingName: "Don Frisians silva", siblingId: "MID-0098" }
+    ];
+
+    const sourcesDataList = [
+        { sourceIcon: "../images/sourece-doc-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" },
+        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" },
+        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" }
+    ];
+
+
+
+
+    const searchMemberId = document.getElementById('searchMemberIdView');
+    const memberSearchContainer = document.getElementById('memberInfoSearchContainer');
+    const viewMemberOnTheTreeBtn = document.getElementById('viewMemberOnTheTreeBtn');
+    const memberPicImg = document.getElementById('memberInfoMemberPicImg');
+    const memberShortName = document.getElementById('memberInfoMemberShortName');
+    const memberFullName = document.getElementById('memberInfoMemberFullName');
+    const memberLineageName = document.getElementById('memberInfoMemberLineageName');
+    const memberBirthInfoMainText = document.getElementById('memberInfoBirthInfoMainText');
+    const memberBirthInfoSubText = document.getElementById('memberInfoBirthInfoSubText');
+    const memberDeathInfoMainText = document.getElementById('memberInfoDeathInfoMainText');
+    const memberDeathInfoSubText = document.getElementById('memberInfoDeathInfoSubText');
+    const memberGenderIcon = document.getElementById('memberInfoGenderIcon');
+    const memberGenderName = document.getElementById('memberInfoGenderName');
+    const memberDescriptionText = document.getElementById('memberInfoDescriptionText');
+
+    cleanShowFindMemberSection();
+
+    memberSearchContainer.addEventListener('click', () => {
+        showFindMemberSearchPanel();
+    });
+
+    viewMemberOnTheTreeBtn.addEventListener('click', () => {
+        const familyTreeSection = document.getElementById('familyTree');
+        familyTreeSection.scrollIntoView({});
+
+        const centerCoords = getViewPortCenterCoordinate();
+        familyTreeController.autoPanToSvgElement(Id, centerCoords.centerX, centerCoords.centerY);
+    });
+
+
+    searchMemberId.textContent = Id;
+
+    memberPicImg.src = '../assets/members-img/person.png';
+    memberShortName.textContent = 'Basil Tennekoon';
+    memberFullName.textContent = 'Don Basil wijayawarhana tennekoon';
+    memberLineageName.textContent = 'Member of Wijayawarhana Tennekoon lineage';
+
+    alternateNamesList.forEach(item => {
+        addMemberAlternateName(item.name, item.nameContext);
+    });
+
+    memberBirthInfoMainText.textContent = 'Born 2 November 1987 in Colombo';
+    memberBirthInfoSubText.textContent = 'Registered in Kandy, born in Nugegoda.';
+
+    memberDeathInfoMainText.textContent = 'Died 2 May 2025 in Colombo';
+    memberDeathInfoSubText.textContent = 'In Colombo at age of 37.';
+
+    memberGenderIcon.src = '../images/male-icon.svg';
+    memberGenderName.textContent = 'Male';
+
+    livedPlaceList.forEach(item => {
+        addMemberLivedPlaceInfo(item.mainText, item.subText);
+    });
+
+    memberDescriptionText.textContent = 'Don Wijesinghe Basil was the eldest biological son of the influential court official, Keerthi Lekam, born into apromine';
+
+    roleAndStatusList.forEach(item => {
+        addMemberRoleInfo(item.roleName, item.roleInfo);
+    });
+
+    wivesDataList.forEach(item => {
+        addMemberWifeInfo(item.wifeImg, item.marriageFate, item.wifeName, item.marriageInfo, item.wifeId);
+    });
+
+    childrenDataList.forEach(item => {
+        addMemberChildrenInfo(item.childImg, item.childName, item.childInfo, item.childId);
+    });
+
+    parentDataList.forEach(item => {
+        addMemberParentInfo(item.parentImg, item.parentRelation, item.parentName, item.parentId);
+    });
+
+    siblingsDataList.forEach(item => {
+        addMemberSiblingInfo(item.siblingImg, item.siblingRelation, item.siblingName, item.siblingId);
+    });
+
+    sourcesDataList.forEach(item => {
+        addMemberSourceInfo(item.sourceIcon, item.sourceName, item.sourceNote, item.sourcePath);
+    });
+
+}
+
+
 function addMemberAlternateName(name, context) {
     const container = document.getElementById('memberInfoAltNameContainer');
     const template = document.getElementById('memberInfoAltNameItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const nameText = clone.querySelector('.memberInfoItem-AltName');
     const nameContext = clone.querySelector('.memberInfoItem-AltName-context');
     nameText.textContent = name;
     nameContext.textContent = context;
-    
+
     container.appendChild(clone);
 }
 
 function addMemberLivedPlaceInfo(mainText, subText) {
     const container = document.getElementById('memberInfoLivedPlaceInfoContainer');
     const template = document.getElementById('memberInfoLivedPlaceItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const main = clone.querySelector('.memberInfoItem-livedMainText-info');
     const sub = clone.querySelector('.memberInfoItem-livedSubText-info');
     main.textContent = mainText;
     sub.textContent = subText;
-    
+
     container.appendChild(clone);
 }
 
 function addMemberRoleInfo(roleName, roleInfo) {
     const container = document.getElementById('memberInfoRolesContainer');
     const template = document.getElementById('memberInfoRoleItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const role = clone.querySelector('.memberInfoItem-roleName');
     const info = clone.querySelector('.memberInfoItem-role-info');
     role.textContent = roleName;
     info.textContent = roleInfo;
-    
+
     container.appendChild(clone);
 }
 
 function addMemberWifeInfo(wifeImg, marriageFate, wifeName, marriageInfo, wifeId) {
     const container = document.getElementById('memberInfoWifeInfoContainer');
     const template = document.getElementById('memberInfoWifeItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const btn = clone.querySelector('.memberInfo-showMoreBtn');
     const img = clone.querySelector('.memberInfo-wife-img');
@@ -375,18 +509,18 @@ function addMemberWifeInfo(wifeImg, marriageFate, wifeName, marriageInfo, wifeId
     fate.textContent = marriageFate;
     name.textContent = wifeName;
     info.textContent = marriageInfo;
-    
+
     btn.addEventListener("click", () => {
-        console.log('Wife id : ' + wifeId);
+        displayMemberDataById(wifeId);
     });
 
     container.appendChild(clone);
 }
 
-function addMemberChildInfo(childImg, childName, childInfo, childId) {
+function addMemberChildrenInfo(childImg, childName, childInfo, childId) {
     const container = document.getElementById('memberInfoChildInfoContainer');
     const template = document.getElementById('memberInfoChildItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const btn = clone.querySelector('.memberInfo-showMoreBtn');
     const img = clone.querySelector('.memberInfo-child-img');
@@ -397,9 +531,9 @@ function addMemberChildInfo(childImg, childName, childInfo, childId) {
     img.alt = childName;
     name.textContent = childName;
     info.textContent = childInfo;
-    
+
     btn.addEventListener("click", () => {
-        console.log('Child id : ' + childId);
+        displayMemberDataById(childId);
     });
 
     container.appendChild(clone);
@@ -408,7 +542,7 @@ function addMemberChildInfo(childImg, childName, childInfo, childId) {
 function addMemberParentInfo(parentImg, parentRelation, parentName, parentId) {
     const container = document.getElementById('memberInfoParentsInfoContainer');
     const template = document.getElementById('memberInfoParentItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const btn = clone.querySelector('.memberInfo-showMoreBtn');
     const img = clone.querySelector('.memberInfo-parent-img');
@@ -419,9 +553,9 @@ function addMemberParentInfo(parentImg, parentRelation, parentName, parentId) {
     img.alt = parentImg;
     relation.textContent = parentRelation;
     name.textContent = parentName;
-    
+
     btn.addEventListener("click", () => {
-        console.log('Parent id : ' + parentId);
+        displayMemberDataById(parentId);
     });
 
     container.appendChild(clone);
@@ -430,7 +564,7 @@ function addMemberParentInfo(parentImg, parentRelation, parentName, parentId) {
 function addMemberSiblingInfo(siblingImg, siblingRelation, siblingName, siblingId) {
     const container = document.getElementById('memberInfoSiblingsInfoContainer');
     const template = document.getElementById('memberInfoSiblingItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const btn = clone.querySelector('.memberInfo-showMoreBtn');
     const img = clone.querySelector('.memberInfo-sibling-img');
@@ -441,9 +575,9 @@ function addMemberSiblingInfo(siblingImg, siblingRelation, siblingName, siblingI
     img.alt = siblingImg;
     relation.textContent = siblingRelation;
     name.textContent = siblingName;
-    
+
     btn.addEventListener("click", () => {
-        console.log('sibling id : ' + siblingId);
+        displayMemberDataById(siblingId);
     });
 
     container.appendChild(clone);
@@ -452,12 +586,12 @@ function addMemberSiblingInfo(siblingImg, siblingRelation, siblingName, siblingI
 function addMemberSourceInfo(sourceIcon, sourceName, sourceNote, sourceLink) {
     const container = document.getElementById('memberInfoSourceContainer');
     const template = document.getElementById('memberInfoSourceItemTemplate');
-  
+
     const clone = template.content.cloneNode(true);
     const icon = clone.querySelector('.memberInfo-source-icon');
     const name = clone.querySelector('.memberInfoItem-souceName');
     const note = clone.querySelector('.memberInfoItem-souceNote');
-    
+
     icon.src = sourceIcon;
     name.textContent = sourceName;
     note.textContent = sourceNote;
@@ -465,6 +599,6 @@ function addMemberSourceInfo(sourceIcon, sourceName, sourceNote, sourceLink) {
     icon.addEventListener("click", () => {
         console.log('Source Link : ' + sourceLink);
     });
-    
+
     container.appendChild(clone);
 }
