@@ -1,6 +1,6 @@
 class DataLoader {
   constructor() {
-    this.members = ['MID-0001-50', 'MID-0002-50', 'MID-0003-50', 'MID-0004-50'];
+    this.members = ['MID01-G50-001-01', 'MID00-G50-000-01', 'MID01-G50-002-01', 'MID00-G50-000-02'];
 
     this.familyTree = {
       profilePic: '../assets/members-img/person.png',
@@ -16,7 +16,7 @@ class DataLoader {
   }
 
   getRootMemberId() {
-    return 'MID-0001-50';
+    return 'MID01-G50-001-01';
   }
 
   getMemberDataById(memberId) {
@@ -48,24 +48,24 @@ class DataLoader {
     ];
 
     const wivesDataList = [
-        { wifeImg: "../assets/members-img/person.png", marriageFate: "Married wife", wifeName: "Dona Martha Kumari", marriageInfo: "Married In 1962 in Kotte, Colombo.", wifeId: "MID-0021-50" }
+        { wifeImg: "../assets/members-img/person.png", marriageFate: "Married wife", wifeName: "Dona Martha Kumari", marriageInfo: "Married In 1962 in Kotte, Colombo.", wifeId: "MID01-G51-001-01" }
     ];
 
     const childrenDataList = [
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "1st son of Lalith kumara and Mala.", childId: "MID-0034-50" },
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "2st son of Lalith kumara and Mala.", childId: "MID-0035-50" },
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "Son of Lalith kumara and Mala.", childId: "MID-0036-50" }
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "1st son of Lalith kumara and Mala.", childId: "MID01-G51-002-01" },
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "2st son of Lalith kumara and Mala.", childId: "MID00-G51-000-03" },
+        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "Son of Lalith kumara and Mala.", childId: "MID00-G51-000-04" }
     ];
 
     const parentDataList = [
-        { parentImg: "../assets/members-img/person.png", parentRelation: "Mother", parentName: "Don Frisians silva", parentId: "MID-0011-50" },
-        { parentImg: "../assets/members-img/person.png", parentRelation: "Father", parentName: "Don Frisians silva", parentId: "MID-0012-50" }
+        { parentImg: "../assets/members-img/person.png", parentRelation: "Mother", parentName: "Don Frisians silva", parentId: "MID01-G52-001-01" },
+        { parentImg: "../assets/members-img/person.png", parentRelation: "Father", parentName: "Don Frisians silva", parentId: "MID00-G52-000-05" }
     ];
 
     const siblingsDataList = [
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Elder brother", siblingName: "Don Frisians silva", siblingId: "MID-0015-50" },
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger brother", siblingName: "Don Frisians silva", siblingId: "MID-0016-50" },
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger Sister", siblingName: "Don Frisians silva", siblingId: "MID-0017-50" }
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Elder brother", siblingName: "Don Frisians silva", siblingId: "MID01-G52-001-02" },
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger brother", siblingName: "Don Frisians silva", siblingId: "MID00-G52-000-06" },
+        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger Sister", siblingName: "Don Frisians silva", siblingId: "MID01-G52-001-03" }
     ];
 
     const sourcesDataList = [
@@ -117,7 +117,7 @@ class DataLoader {
   findMemberIdByInputName(inputName) {
 
     if (inputName === "multi") {
-      return ['MID-0001-50', 'MID-0002-50', 'MID-0003-50'];
+      return ['MID01-G50-001-01', 'MID00-G50-000-01', 'MID01-G50-002-01'];
     } else if (inputName === "no") {
       return null;
     } else {

@@ -97,7 +97,7 @@ class FamilyTreeSvgController {
 
     async loadFamilyTreeSvg() {
         try {
-            const res = await fetch('images/family-tree.svg');
+            const res = await fetch('assets/family-tree/tennekoon-family-tree.svg');
             console.log("SVG fetch response:", res.status);
 
             if (!res.ok) {
@@ -451,7 +451,7 @@ class FamilyTreeSvgController {
 
 
     // Download family tree 
-    async downloadFamilyTreeSvg(filename = 'full-family-tree.svg') {
+    async downloadFamilyTreeSvg(filename = 'tennekoon-family-tree.svg') {
         if (!this.svg) {
             console.error('SVG element not found. Make sure the SVG is loaded.');
             return false;
