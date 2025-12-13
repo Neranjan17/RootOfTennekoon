@@ -336,6 +336,32 @@ section {
     z-index: 7;
 }
 
+.tree-person-info-btn-container {
+    display: flex;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    margin-top: 10px;  
+}
+
+.tree-person-showMoreBtn {
+    flex-grow: 1;
+    margin-top: 10px;
+    background-color: var(--bg-dark);
+    border: none;
+    border-radius: 8px;
+    padding: 6px;
+    color: var(--text-gray);
+    cursor: pointer;
+    font-size: 1.0em;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.tree-person-showMoreBtn:hover {
+    background-color: var(--accent);
+    color: var(--text-light);
+    transform: scale(1.05); 
+}
+
 /* Tree person Search styles */
 #tree-personSearch-container {
     display: none;

@@ -220,6 +220,7 @@ function displayTreePersonInfoDiv(clickedId) {
     const subHeaderElement = document.getElementById('tree-personInfo-subHeader');
     const descElement = document.getElementById('tree-personInfo-desc');
     const searchContainer = document.getElementById('tree-personSearch-container');
+    const showMoreBtn = document.getElementById('treePersonShowMoreBtn');
 
     const dataLoader = new DataLoader();
     const personData = dataLoader.getTreePersonInfoById(clickedId);
@@ -234,10 +235,19 @@ function displayTreePersonInfoDiv(clickedId) {
     container.style.display = 'block';
     container.offsetHeight;
     container.classList.add('show');
+
+    showMoreBtn.addEventListener('click', () => {
+        loadDataToFindMemberSectionById(clickedId);
+        const familyTreeSection = document.getElementById('FindMember');
+        familyTreeSection.scrollIntoView({});
+    });
 }
 
 function setTreePositionToRootMember() {
-    const rootMemberId = 'MID-0001'
+
+    const dataLoader = new DataLoader();
+    
+    const rootMemberId = dataLoader.getRootMemberId();
     const centerCoords = getViewPortCenterCoordinate(true);
     familyTreeController.autoPanToSvgElement(rootMemberId, centerCoords.centerX, centerCoords.centerY);
 }
@@ -327,57 +337,13 @@ function cleanShowFindMemberSection() {
 
 function loadDataToFindMemberSectionById(Id) {
 
-    const alternateNamesList = [
-        { name: "Podi rala", nameContext: "Society nickname" },
-        { name: "Kuda bandara", nameContext: "Society nickname" }
-    ];
-
-    const livedPlaceList = [
-        { mainText: "Colombo 03, from to 1988 to 2001", subText: "Wife’s home" },
-        { mainText: "Colombo 07, from to 1950 to 1988", subText: "Primary residence after university" }
-    ];
-
-    const roleAndStatusList = [
-        { roleName: "Military Officer", roleInfo: "In Royal Palace from 1940 to 1985" },
-    ];
-
-    const wivesDataList = [
-        { wifeImg: "../assets/members-img/person.png", marriageFate: "Married wife", wifeName: "Dona Martha Kumari", marriageInfo: "Married In 1962 in Kotte, Colombo.", wifeId: "MID-0078" }
-    ];
-
-    const childrenDataList = [
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "1st son of Lalith kumara and Mala.", childId: "MID-0038" },
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "2st son of Lalith kumara and Mala.", childId: "MID-0037" },
-        { childImg: "../assets/members-img/person.png", childName: "Don Frisians silva", childInfo: "Son of Lalith kumara and Mala.", childId: "MID-0036" }
-    ];
-
-    const parentDataList = [
-        { parentImg: "../assets/members-img/person.png", parentRelation: "Mother", parentName: "Don Frisians silva", parentId: "MID-0098" },
-        { parentImg: "../assets/members-img/person.png", parentRelation: "Father", parentName: "Don Frisians silva", parentId: "MID-0098" }
-    ];
-
-    const siblingsDataList = [
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Elder brother", siblingName: "Don Frisians silva", siblingId: "MID-0098" },
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger brother", siblingName: "Don Frisians silva", siblingId: "MID-0098" },
-        { siblingImg: "../assets/members-img/person.png", siblingRelation: "Younger Sister", siblingName: "Don Frisians silva", siblingId: "MID-0098" }
-    ];
-
-    const sourcesDataList = [
-        { sourceIcon: "../images/sourece-doc-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" },
-        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" },
-        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "../assets/members-sources/dommy-source.png" }
-    ];
-
-
-
-
     const searchMemberId = document.getElementById('searchMemberIdView');
     const memberSearchContainer = document.getElementById('memberInfoSearchContainer');
     const viewMemberOnTheTreeBtn = document.getElementById('viewMemberOnTheTreeBtn');
     const memberPicImg = document.getElementById('memberInfoMemberPicImg');
-    const memberShortName = document.getElementById('memberInfoMemberShortName');
-    const memberFullName = document.getElementById('memberInfoMemberFullName');
-    const memberLineageName = document.getElementById('memberInfoMemberLineageName');
+    const memberShortNameText = document.getElementById('memberInfoMemberShortName');
+    const memberFullNameText = document.getElementById('memberInfoMemberFullName');
+    const memberLineageNameText = document.getElementById('memberInfoMemberLineageName');
     const memberBirthInfoMainText = document.getElementById('memberInfoBirthInfoMainText');
     const memberBirthInfoSubText = document.getElementById('memberInfoBirthInfoSubText');
     const memberDeathInfoMainText = document.getElementById('memberInfoDeathInfoMainText');
@@ -400,54 +366,56 @@ function loadDataToFindMemberSectionById(Id) {
         familyTreeController.autoPanToSvgElement(Id, centerCoords.centerX, centerCoords.centerY);
     });
 
+    const dataLoader = new DataLoader();
+    const memberData = dataLoader.getMemberDataById(Id);
 
     searchMemberId.textContent = Id;
 
-    memberPicImg.src = '../assets/members-img/person.png';
-    memberShortName.textContent = 'Basil Tennekoon';
-    memberFullName.textContent = 'Don Basil wijayawarhana tennekoon';
-    memberLineageName.textContent = 'Member of Wijayawarhana Tennekoon lineage';
+    memberPicImg.src = memberData.memberImgLink;
+    memberShortNameText.textContent = memberData.memberShortName;
+    memberFullNameText.textContent = memberData.memberFullName;
+    memberLineageNameText.textContent = memberData.memberLineageName;
 
-    alternateNamesList.forEach(item => {
+    memberData.alternateNamesList.forEach(item => {
         addMemberAlternateName(item.name, item.nameContext);
     });
 
-    memberBirthInfoMainText.textContent = 'Born 2 November 1987 in Colombo';
-    memberBirthInfoSubText.textContent = 'Registered in Kandy, born in Nugegoda.';
+    memberBirthInfoMainText.textContent = memberData.memberBirthInfoMain;
+    memberBirthInfoSubText.textContent = memberData.memberBirthInfoSub;
 
-    memberDeathInfoMainText.textContent = 'Died 2 May 2025 in Colombo';
-    memberDeathInfoSubText.textContent = 'In Colombo at age of 37.';
+    memberDeathInfoMainText.textContent = memberData.memberDeathInfoMain;
+    memberDeathInfoSubText.textContent = memberData.memberDeathInfoSub;
 
-    memberGenderIcon.src = '../images/male-icon.svg';
-    memberGenderName.textContent = 'Male';
+    memberGenderIcon.src = memberData.memberGenderIconLink;
+    memberGenderName.textContent = memberData.memberGender;
 
-    livedPlaceList.forEach(item => {
+    memberData.livedPlaceList.forEach(item => {
         addMemberLivedPlaceInfo(item.mainText, item.subText);
     });
 
-    memberDescriptionText.textContent = 'Don Wijesinghe Basil was the eldest biological son of the influential court official, Keerthi Lekam, born into apromine';
+    memberDescriptionText.textContent = memberData.memberDescription;
 
-    roleAndStatusList.forEach(item => {
+    memberData.roleAndStatusList.forEach(item => {
         addMemberRoleInfo(item.roleName, item.roleInfo);
     });
 
-    wivesDataList.forEach(item => {
+    memberData.wivesDataList.forEach(item => {
         addMemberWifeInfo(item.wifeImg, item.marriageFate, item.wifeName, item.marriageInfo, item.wifeId);
     });
 
-    childrenDataList.forEach(item => {
+    memberData.childrenDataList.forEach(item => {
         addMemberChildrenInfo(item.childImg, item.childName, item.childInfo, item.childId);
     });
 
-    parentDataList.forEach(item => {
+    memberData.parentDataList.forEach(item => {
         addMemberParentInfo(item.parentImg, item.parentRelation, item.parentName, item.parentId);
     });
 
-    siblingsDataList.forEach(item => {
+    memberData.siblingsDataList.forEach(item => {
         addMemberSiblingInfo(item.siblingImg, item.siblingRelation, item.siblingName, item.siblingId);
     });
 
-    sourcesDataList.forEach(item => {
+    memberData.sourcesDataList.forEach(item => {
         addMemberSourceInfo(item.sourceIcon, item.sourceName, item.sourceNote, item.sourcePath);
     });
 

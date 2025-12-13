@@ -1,0 +1,71 @@
+---
+ID: MID-0001-51
+PROFILE_PICTURE: /Image/Contemporary/LalithK_Profile.jpg
+NICK_NAME: Lali
+FULL_NAME: Lalith Keerthisinghe
+
+ALTERNATE_NAMES:
+  - NAME: L. D. Keerthisinghe
+    CONTEXT: OFFICIAL_TITLE
+  - NAME: Kalu Mahaththaya
+    CONTEXT: SOCIETY_NICKNAME
+FAMILY_NAME: Keerthisinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Lalith Keerthisinghe is a contemporary business executive and philanthropist, known for establishing a successful garment manufacturing firm in the Western Province. He holds significant influence in local business circles and has supported several educational initiatives. Though primarily a modern figure, his family line traces back to colonial-era regional chiefs, a lineage he occasionally references in official biographies.
+
+BIRTH:
+  DATE: 1978-05-15
+  PLACE: Colombo
+  NOTES: Registered in Colombo, but born in a private nursing home in Nugegoda.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  CAUSE: UNKNOWN
+  NOTES:
+
+LIVED:
+  - PLACE: Colombo 07, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: CURRENT
+    NOTES: Primary residence after university.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: K-Sig Apparel Solutions
+    FORM_DATE: 2005
+    TO_DATE: CURRENT
+    NOTES: Founder and current head of the company.
+
+  - TITLE: Justice of the Peace
+    INSTITUTION: Government of Sri Lanka
+    FORM_DATE: 2018
+    TO_DATE: CURRENT
+    NOTES: Honorary position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records (NIC)
+    NOTE: Confirmed birth and full name data.
+    PATH: ASSIST/NIC_COPY_LK.PDF
+
+  - SOURCE_NAME: Company Annual Report 2024
+    NOTE: Used for verifying current residence and role.
+    PATH: ASSIST/KSig_AnnualReport_2024.PDF
+
+PARENTS:
+  FATHER: MID-0001-50
+  MOTHER: MID-0002-50
+
+MARRIAGES:
+  - PARTNER: MID-0010-51
+    DATE: 2003-12-01
+    PLACE: Galle Face Hotel, Colombo
+    FATE: ONGOING
+    BIOLOGICAL_CHILDREN:
+      # CHILD_ORDER is included inside the object.
+      - ID: MID-0015-52
+        ORDER: 1
+      - ID: MID-0016-52
+        ORDER: 2
+    ADOPTED_CHILDREN: []
