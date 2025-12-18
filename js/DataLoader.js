@@ -29,7 +29,7 @@ class DataLoader {
     const memberBirthInfoSub = 'Registered in Kandy, born in Nugegoda.';
     const memberDeathInfoMain = 'Died 2 May 2025 in Colombo';
     const memberDeathInfoSub = 'In Colombo at age of 37.';
-    const memberGenderIconLink = '../images/male-icon.svg';
+    const memberGenderIconLink = './images/male-icon.svg';
     const memberGender = 'Male';
     const memberDescription = 'Don Wijesinghe Basil was the eldest biological son of the influential court official, Keerthi Lekam, born into apromine';
 
@@ -69,9 +69,9 @@ class DataLoader {
     ];
 
     const sourcesDataList = [
-        { sourceIcon: "../images/sourece-doc-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" },
-        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" },
-        { sourceIcon: "../images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" }
+        { sourceIcon: "./images/sourece-doc-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" },
+        { sourceIcon: "./images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" },
+        { sourceIcon: "./images/sourece-img-icon.svg", sourceName: "Family Chronicle", sourceNote: "Received training in royal military arts", sourcePath: "./assets/members-sources/dommy-source.png" }
     ];
 
     return {
