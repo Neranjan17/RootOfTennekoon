@@ -177,7 +177,11 @@ section {
     align-items: flex-start;
     backdrop-filter: blur(8px);
     z-index: 5;
-    padding: 10px 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 75px;
+    padding-right: 75px;
+    -webkit-mask: linear-gradient(-90deg, rgba(0, 0, 0, 0) 1%, rgba(0, 0, 0, 1) 10%);
 }
 
 .home-right-container {
@@ -212,13 +216,15 @@ section {
 
 .home-btn-div {
     padding-bottom: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     margin-top: 30px;
+    display: flex;
 }
 
 .home-btn {
     cursor: pointer;
-    padding: 8px 30px;
+    display: inline-block;
+    padding: 10px 30px;
     margin-right: 8px;
     text-decoration: none;
     border: none;
@@ -278,7 +284,7 @@ section {
 .home-main-img {
     height: 85%;
     width: auto;
-    padding-left: 50px;
+    padding-left: 75px;
 }
 
 
