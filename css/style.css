@@ -275,31 +275,10 @@ section {
 
 
 /* --- Home Section - Right div styles --- */
-.home-main-img-div {
-    height: 85%;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    display: flex;
-    justify-content: flex-start;
-    padding-left: 100px;
-    align-items: flex-end;
-}
-
-.home-main-img-bg {
-    height: 90%;
-    width: 60%;
-    opacity: 0.8;
-    border-radius: 50% 50% 0 0;
-    background-image: linear-gradient(to top, #0D151E, #2C5D69);
-    position: absolute;
-    z-index: 3;
-}
-
 .home-main-img {
-    height: 100%;
-    position: absolute;
-    z-index: 7;
+    height: 85%;
+    width: auto;
+    padding-left: 50px;
 }
 
 
