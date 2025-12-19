@@ -1,9 +1,9 @@
 // script.js
-import MembersDataLoader from './membersDataLoader.js';
 
 import DataLoader from './DataLoader.js';
 import SnowfallAnimation from './SnowfallAnimation.js';
 import FamilyTreeSvgController from './FamilyTreeSvgController.js';
+import MembersDataLoader from './MembersDataLoader.js';
 
 let membersDataLoader = null;
 let familyTreeController = null;
