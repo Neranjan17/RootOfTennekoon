@@ -5,24 +5,32 @@ import DataLoader from './DataLoader.js';
 import SnowfallAnimation from './SnowfallAnimation.js';
 import FamilyTreeSvgController from './FamilyTreeSvgController.js';
 
+let membersDataLoader = null;
 let familyTreeController = null;
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
     console.log("Website loaded successfully!");
 
-    initSnowfall();
-    initFamilyTree();
-    showFamilyTreeSearchPanel();
-    initNavigationHighlight();
-    initTreeSearch();
-    initTreeToolBarListeners();
+    try {
+        membersDataLoader = await MembersDataLoader.getInstance();
 
-    //showFindMemberSearchPanel();
-    showFindMemberSearchPanel();
-    initMemberSearch();
+        if (membersDataLoader) {
+            initSnowfall();
+            setHemeSectionData();
+            initFamilyTree();
+            showFamilyTreeSearchPanel();
+            initNavigationHighlight();
+            initTreeSearch();
+            initTreeToolBarListeners();
 
-    const memberLoader = new MembersDataLoader();
+            showFindMemberSearchPanel();
+            initMemberSearch();
+        }
+    } catch (error) {
+        console.error("Failed to initialize member loader:", error);
+    }
 });
+
 
 /* -- Comon -- */
 function initSnowfall() {
@@ -124,6 +132,17 @@ function initNavigationHighlight() {
     activateLink();
 }
 
+
+/* -- Home Section -- */
+function setHemeSectionData() {
+    const membersCountText = document.getElementById('homeDataMembersCount');
+    const generationsCountText = document.getElementById('homeDataGenerationsCount');
+    const yearsCountText = document.getElementById('homeDataYearsCount');
+
+    membersCountText.textContent = "+ " + membersDataLoader.getAllMembersCount().toString().padStart(3, '0');
+    generationsCountText.textContent = "+ " + membersDataLoader.getTotalGenerationsCount().toString().padStart(2, '0');
+    yearsCountText.textContent = "+ " + membersDataLoader.getYearsCount().toString().padStart(3, '0');
+}
 
 
 /* -- Family tree Section -- */
@@ -249,7 +268,7 @@ function displayTreePersonInfoDiv(clickedId) {
 function setTreePositionToRootMember() {
 
     const dataLoader = new DataLoader();
-    
+
     const rootMemberId = dataLoader.getRootMemberId();
     const centerCoords = getViewPortCenterCoordinate(true);
     familyTreeController.autoPanToSvgElement(rootMemberId, centerCoords.centerX, centerCoords.centerY);
