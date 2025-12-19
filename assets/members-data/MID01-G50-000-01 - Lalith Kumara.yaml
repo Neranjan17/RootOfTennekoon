@@ -1,14 +1,15 @@
 ---
-ID: MID-0002-51
+ID: MID01-G50-000-01
 PROFILE_PICTURE: /Image/Contemporary/LalithK_Profile.jpg
-NICK_NAME: Lali
-FULL_NAME: Lalith Keerthisinghe
+SHORT_NAME: Lalith Kumara
+FULL_NAME: Lalith Kumara Werasuriya
 
 ALTERNATE_NAMES:
-  - NAME: L. D. Keerthisinghe
+  - NAME: L. D. Lalith Kumara
     CONTEXT: OFFICIAL_TITLE
   - NAME: Kalu Mahaththaya
     CONTEXT: SOCIETY_NICKNAME
+
 FAMILY_NAME: Keerthisinghe
 GENDER: MALE
 GENERAL_DESCRIPTION: >
@@ -22,8 +23,7 @@ BIRTH:
 DEATH:
   DATE: UNKNOWN
   PLACE: UNKNOWN
-  CAUSE: UNKNOWN
-  NOTES:
+  NOTES: UNKNOWN
 
 LIVED:
   - PLACE: Colombo 07, Sri Lanka
@@ -54,18 +54,15 @@ SOURCES:
     PATH: ASSIST/KSig_AnnualReport_2024.PDF
 
 PARENTS:
-  FATHER: MID-0001-50
-  MOTHER: MID-0002-50
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
 
 MARRIAGES:
-  - PARTNER: MID-0010-51
+  - PARTNER: MID00-G50-000-01
     DATE: 2003-12-01
     PLACE: Galle Face Hotel, Colombo
     FATE: ONGOING
     BIOLOGICAL_CHILDREN:
-      # CHILD_ORDER is included inside the object.
-      - ID: MID-0015-52
+      - ID: MID01-G51-001-01
         ORDER: 1
-      - ID: MID-0016-52
-        ORDER: 2
     ADOPTED_CHILDREN: []

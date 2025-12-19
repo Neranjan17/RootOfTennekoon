@@ -1,4 +1,5 @@
 // script.js
+import MembersDataLoader from './membersDataLoader.js';
 
 import DataLoader from './DataLoader.js';
 import SnowfallAnimation from './SnowfallAnimation.js';
@@ -19,6 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
     //showFindMemberSearchPanel();
     showFindMemberSearchPanel();
     initMemberSearch();
+
+    const memberLoader = new MembersDataLoader();
 });
 
 /* -- Comon -- */
