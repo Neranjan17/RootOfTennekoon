@@ -1,0 +1,62 @@
+ID: MID15-G52-665-96
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Profile.jpg
+SHORT_NAME: Malsha Gunawardena
+FULL_NAME: Malsha Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: M. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Gunawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Malsha has established a notable presence in Matara.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1979-05-23
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1979
+    TO_DATE: 2000
+    NOTES: Childhood and early education.
+
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2000-03-12
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID15-G52-665-96.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID15-G52-665-96.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

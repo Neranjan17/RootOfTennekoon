@@ -1,0 +1,62 @@
+ID: MID80-G52-330-60
+PROFILE_PICTURE: /Image/Contemporary/Dimuthu_Profile.jpg
+SHORT_NAME: Dimuthu Jayawardena
+FULL_NAME: Dimuthu Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: D. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dimuthu J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dimuthu Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dimuthu has established a notable presence in Anuradhapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1990-05-11
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: 2010
+    NOTES: Childhood and early education.
+
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2010
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2016-02-09
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID80-G52-330-60.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID80-G52-330-60.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

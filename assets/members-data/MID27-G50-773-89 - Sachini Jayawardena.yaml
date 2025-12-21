@@ -1,0 +1,62 @@
+ID: MID27-G50-773-89
+PROFILE_PICTURE: /Image/Contemporary/Sachini_Profile.jpg
+SHORT_NAME: Sachini Jayawardena
+FULL_NAME: Sachini Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: S. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sachini J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sachini Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Sachini has established a notable presence in Matara.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2010-08-17
+  PLACE: Jaffna
+  NOTES: Registered birth in Jaffna, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 2010
+    TO_DATE: 2034
+    NOTES: Childhood and early education.
+
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2034
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2020-02-25
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID27-G50-773-89.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID27-G50-773-89.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

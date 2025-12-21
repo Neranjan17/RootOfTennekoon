@@ -1,0 +1,62 @@
+ID: MID31-G50-053-75
+PROFILE_PICTURE: /Image/Contemporary/Nadeeka_Profile.jpg
+SHORT_NAME: Nadeeka Jayawardena
+FULL_NAME: Nadeeka Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: N. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nadeeka J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nadeeka Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nadeeka has established a notable presence in Colombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1976-11-24
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: 1996
+    NOTES: Childhood and early education.
+
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2011-09-10
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID31-G50-053-75.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID31-G50-053-75.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID15-G52-185-99
+PROFILE_PICTURE: /Image/Contemporary/Pavithra_Profile.jpg
+SHORT_NAME: Pavithra Perera
+FULL_NAME: Pavithra Perera
+
+ALTERNATE_NAMES:
+  - NAME: P. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Pavithra P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Pavithra Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Pavithra has established a notable presence in Kurunegala.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1993-08-16
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: 2016
+    NOTES: Childhood and early education.
+
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2001-06-10
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID15-G52-185-99.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID15-G52-185-99.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

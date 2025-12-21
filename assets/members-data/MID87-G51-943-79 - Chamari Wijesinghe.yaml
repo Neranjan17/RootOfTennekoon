@@ -1,0 +1,62 @@
+ID: MID87-G51-943-79
+PROFILE_PICTURE: /Image/Contemporary/Chamari_Profile.jpg
+SHORT_NAME: Chamari Wijesinghe
+FULL_NAME: Chamari Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: C. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamari W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Chamari Wijesinghe is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamari has established a notable presence in Kurunegala.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1979-12-21
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1979
+    TO_DATE: 2000
+    NOTES: Childhood and early education.
+
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 2000-02-23
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID87-G51-943-79.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID87-G51-943-79.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

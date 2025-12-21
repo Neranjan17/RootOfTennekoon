@@ -1,0 +1,62 @@
+ID: MID07-G51-391-83
+PROFILE_PICTURE: /Image/Contemporary/Nuwan_Profile.jpg
+SHORT_NAME: Nuwan Bandara
+FULL_NAME: Nuwan Bandara
+
+ALTERNATE_NAMES:
+  - NAME: N. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nuwan B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Nuwan Bandara is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nuwan has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1995-10-08
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2018
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2018
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2006-04-06
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID07-G51-391-83.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID07-G51-391-83.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

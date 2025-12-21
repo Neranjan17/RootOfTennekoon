@@ -1,0 +1,62 @@
+ID: MID82-G52-502-39
+PROFILE_PICTURE: /Image/Contemporary/Saman_Profile.jpg
+SHORT_NAME: Saman Dissanayake
+FULL_NAME: Saman Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: S. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman Dissanayake is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Saman has established a notable presence in Galle.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1995-10-20
+  PLACE: Colombo
+  NOTES: Registered birth in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2016
+    NOTES: Childhood and early education.
+
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2017-07-10
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID82-G52-502-39.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID82-G52-502-39.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID31-G50-870-63
+PROFILE_PICTURE: /Image/Contemporary/Nadeeka_Profile.jpg
+SHORT_NAME: Nadeeka Fernando
+FULL_NAME: Nadeeka Fernando
+
+ALTERNATE_NAMES:
+  - NAME: N. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nadeeka F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nadeeka Fernando is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nadeeka has established a notable presence in Kurunegala.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1990-12-16
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: 2008
+    NOTES: Childhood and early education.
+
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2008
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2014-11-24
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID31-G50-870-63.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID31-G50-870-63.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

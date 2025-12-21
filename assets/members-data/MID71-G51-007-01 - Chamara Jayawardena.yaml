@@ -1,0 +1,62 @@
+ID: MID71-G51-007-01
+PROFILE_PICTURE: /Image/Contemporary/Chamara_Profile.jpg
+SHORT_NAME: Chamara Jayawardena
+FULL_NAME: Chamara Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: C. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamara J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Chamara Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamara has established a notable presence in Galle.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1992-06-23
+  PLACE: Jaffna
+  NOTES: Registered birth in Jaffna, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1992
+    TO_DATE: 2019
+    NOTES: Childhood and early education.
+
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 2019
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2017-11-09
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID71-G51-007-01.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID71-G51-007-01.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

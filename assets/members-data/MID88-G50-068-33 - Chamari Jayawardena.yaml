@@ -1,0 +1,62 @@
+ID: MID88-G50-068-33
+PROFILE_PICTURE: /Image/Contemporary/Chamari_Profile.jpg
+SHORT_NAME: Chamari Jayawardena
+FULL_NAME: Chamari Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: C. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamari J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Chamari Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamari has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2002-07-12
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2002
+    TO_DATE: 2025
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2025
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 2000-06-16
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID88-G50-068-33.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID88-G50-068-33.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

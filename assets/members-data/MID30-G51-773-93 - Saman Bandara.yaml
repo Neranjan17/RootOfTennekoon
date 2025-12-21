@@ -1,0 +1,62 @@
+ID: MID30-G51-773-93
+PROFILE_PICTURE: /Image/Contemporary/Saman_Profile.jpg
+SHORT_NAME: Saman Bandara
+FULL_NAME: Saman Bandara
+
+ALTERNATE_NAMES:
+  - NAME: S. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman Bandara is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Saman has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2005-02-23
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2005
+    TO_DATE: 2027
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2027
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2021-08-09
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID30-G51-773-93.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID30-G51-773-93.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

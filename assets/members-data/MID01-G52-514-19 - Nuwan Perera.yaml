@@ -1,0 +1,62 @@
+ID: MID01-G52-514-19
+PROFILE_PICTURE: /Image/Contemporary/Nuwan_Profile.jpg
+SHORT_NAME: Nuwan Perera
+FULL_NAME: Nuwan Perera
+
+ALTERNATE_NAMES:
+  - NAME: N. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nuwan P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Nuwan Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nuwan has established a notable presence in Colombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1998-10-13
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1998
+    TO_DATE: 2021
+    NOTES: Childhood and early education.
+
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2021
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 2021-11-11
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID01-G52-514-19.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID01-G52-514-19.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

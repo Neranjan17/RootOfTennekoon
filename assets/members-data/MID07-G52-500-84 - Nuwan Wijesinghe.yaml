@@ -1,0 +1,62 @@
+ID: MID07-G52-500-84
+PROFILE_PICTURE: /Image/Contemporary/Nuwan_Profile.jpg
+SHORT_NAME: Nuwan Wijesinghe
+FULL_NAME: Nuwan Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: N. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nuwan W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Nuwan Wijesinghe is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nuwan has established a notable presence in Anuradhapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2006-10-21
+  PLACE: Colombo
+  NOTES: Registered birth in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2006
+    TO_DATE: 2026
+    NOTES: Childhood and early education.
+
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2026
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2015-12-23
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID07-G52-500-84.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID07-G52-500-84.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

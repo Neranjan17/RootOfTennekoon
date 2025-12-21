@@ -1,0 +1,62 @@
+ID: MID62-G52-877-28
+PROFILE_PICTURE: /Image/Contemporary/Sanduni_Profile.jpg
+SHORT_NAME: Sanduni Rajapaksa
+FULL_NAME: Sanduni Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: S. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sanduni R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sanduni Rajapaksa is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Sanduni has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1995-06-22
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2015
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2015
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 2016-09-02
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID62-G52-877-28.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID62-G52-877-28.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID88-G50-908-93
+PROFILE_PICTURE: /Image/Contemporary/Saman_Profile.jpg
+SHORT_NAME: Saman Wijesinghe
+FULL_NAME: Saman Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: S. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman Wijesinghe is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Saman has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1974-01-26
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: 1993
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 2005-05-04
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID88-G50-908-93.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID88-G50-908-93.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

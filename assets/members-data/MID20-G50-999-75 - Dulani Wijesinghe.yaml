@@ -1,0 +1,62 @@
+ID: MID20-G50-999-75
+PROFILE_PICTURE: /Image/Contemporary/Dulani_Profile.jpg
+SHORT_NAME: Dulani Wijesinghe
+FULL_NAME: Dulani Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: D. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dulani W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Dulani Wijesinghe is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dulani has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2001-11-26
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2001
+    TO_DATE: 2019
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2019
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2006-09-23
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID20-G50-999-75.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID20-G50-999-75.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

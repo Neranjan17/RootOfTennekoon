@@ -1,0 +1,62 @@
+ID: MID12-G52-456-08
+PROFILE_PICTURE: /Image/Contemporary/Dilshan_Profile.jpg
+SHORT_NAME: Dilshan Gunawardena
+FULL_NAME: Dilshan Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: D. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dilshan G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dilshan Gunawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dilshan has established a notable presence in Batticaloa.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1972-05-19
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1972
+    TO_DATE: 1992
+    NOTES: Childhood and early education.
+
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2015-01-04
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID12-G52-456-08.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID12-G52-456-08.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

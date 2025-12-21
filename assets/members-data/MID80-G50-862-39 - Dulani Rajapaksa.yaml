@@ -1,0 +1,62 @@
+ID: MID80-G50-862-39
+PROFILE_PICTURE: /Image/Contemporary/Dulani_Profile.jpg
+SHORT_NAME: Dulani Rajapaksa
+FULL_NAME: Dulani Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: D. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dulani R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Dulani Rajapaksa is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dulani has established a notable presence in Matara.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1972-02-26
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1972
+    TO_DATE: 1990
+    NOTES: Childhood and early education.
+
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 2006-06-10
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID80-G50-862-39.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID80-G50-862-39.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID18-G51-024-34
+PROFILE_PICTURE: /Image/Contemporary/Thilini_Profile.jpg
+SHORT_NAME: Thilini Rajapaksa
+FULL_NAME: Thilini Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: T. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Thilini R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Thilini Rajapaksa is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Thilini has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2010-07-18
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 2010
+    TO_DATE: 2035
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2035
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2017-10-19
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID18-G51-024-34.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID18-G51-024-34.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

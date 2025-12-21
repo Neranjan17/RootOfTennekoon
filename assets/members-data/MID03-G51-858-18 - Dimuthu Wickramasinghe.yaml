@@ -1,0 +1,62 @@
+ID: MID03-G51-858-18
+PROFILE_PICTURE: /Image/Contemporary/Dimuthu_Profile.jpg
+SHORT_NAME: Dimuthu Wickramasinghe
+FULL_NAME: Dimuthu Wickramasinghe
+
+ALTERNATE_NAMES:
+  - NAME: D. Wickramasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dimuthu W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wickramasinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dimuthu Wickramasinghe is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dimuthu has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1981-10-15
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1981
+    TO_DATE: 2000
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2014-03-11
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID03-G51-858-18.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID03-G51-858-18.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

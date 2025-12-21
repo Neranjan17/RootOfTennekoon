@@ -1,0 +1,62 @@
+ID: MID41-G52-183-25
+PROFILE_PICTURE: /Image/Contemporary/Dimuthu_Profile.jpg
+SHORT_NAME: Dimuthu Perera
+FULL_NAME: Dimuthu Perera
+
+ALTERNATE_NAMES:
+  - NAME: D. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dimuthu P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dimuthu Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dimuthu has established a notable presence in Jaffna.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1995-07-21
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2020
+    NOTES: Childhood and early education.
+
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2015-04-16
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID41-G52-183-25.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID41-G52-183-25.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

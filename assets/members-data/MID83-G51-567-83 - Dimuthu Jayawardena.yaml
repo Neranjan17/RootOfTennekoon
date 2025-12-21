@@ -1,0 +1,62 @@
+ID: MID83-G51-567-83
+PROFILE_PICTURE: /Image/Contemporary/Dimuthu_Profile.jpg
+SHORT_NAME: Dimuthu Jayawardena
+FULL_NAME: Dimuthu Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: D. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dimuthu J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dimuthu Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dimuthu has established a notable presence in Kandy.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1974-01-13
+  PLACE: Kurunegala
+  NOTES: Registered birth in Kurunegala, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: 1993
+    NOTES: Childhood and early education.
+
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2012-09-01
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID83-G51-567-83.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID83-G51-567-83.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

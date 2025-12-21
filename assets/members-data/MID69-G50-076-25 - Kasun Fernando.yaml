@@ -1,0 +1,62 @@
+ID: MID69-G50-076-25
+PROFILE_PICTURE: /Image/Contemporary/Kasun_Profile.jpg
+SHORT_NAME: Kasun Fernando
+FULL_NAME: Kasun Fernando
+
+ALTERNATE_NAMES:
+  - NAME: K. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Kasun F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Kasun Fernando is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Kasun has established a notable presence in Kurunegala.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1980-10-14
+  PLACE: Kandy
+  NOTES: Registered birth in Kandy, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1980
+    TO_DATE: 2006
+    NOTES: Childhood and early education.
+
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2006
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2013-12-06
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID69-G50-076-25.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID69-G50-076-25.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

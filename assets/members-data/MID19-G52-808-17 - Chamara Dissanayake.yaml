@@ -1,0 +1,62 @@
+ID: MID19-G52-808-17
+PROFILE_PICTURE: /Image/Contemporary/Chamara_Profile.jpg
+SHORT_NAME: Chamara Dissanayake
+FULL_NAME: Chamara Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: C. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamara D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Chamara Dissanayake is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamara has established a notable presence in Anuradhapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1970-01-03
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: 1988
+    NOTES: Childhood and early education.
+
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1988
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 2024-09-09
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID19-G52-808-17.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID19-G52-808-17.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

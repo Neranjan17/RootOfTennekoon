@@ -1,0 +1,62 @@
+ID: MID34-G50-682-81
+PROFILE_PICTURE: /Image/Contemporary/Nethmi_Profile.jpg
+SHORT_NAME: Nethmi Perera
+FULL_NAME: Nethmi Perera
+
+ALTERNATE_NAMES:
+  - NAME: N. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nethmi P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nethmi Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nethmi has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1974-02-16
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: 2001
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2001
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 2022-02-21
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID34-G50-682-81.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID34-G50-682-81.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID46-G50-542-01
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Profile.jpg
+SHORT_NAME: Malsha Gunawardena
+FULL_NAME: Malsha Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: M. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Gunawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Malsha has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2006-03-18
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2006
+    TO_DATE: 2031
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2031
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 2002-07-09
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID46-G50-542-01.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID46-G50-542-01.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID04-G52-600-62
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Profile.jpg
+SHORT_NAME: Malsha Perera
+FULL_NAME: Malsha Perera
+
+ALTERNATE_NAMES:
+  - NAME: M. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Malsha has established a notable presence in Ratnapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1978-06-11
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1978
+    TO_DATE: 1999
+    NOTES: Childhood and early education.
+
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1999
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2007-08-12
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID04-G52-600-62.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID04-G52-600-62.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

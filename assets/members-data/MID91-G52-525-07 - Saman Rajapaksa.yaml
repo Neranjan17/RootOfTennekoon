@@ -1,0 +1,62 @@
+ID: MID91-G52-525-07
+PROFILE_PICTURE: /Image/Contemporary/Saman_Profile.jpg
+SHORT_NAME: Saman Rajapaksa
+FULL_NAME: Saman Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: S. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman Rajapaksa is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Saman has established a notable presence in Jaffna.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1985-02-27
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1985
+    TO_DATE: 2012
+    NOTES: Childhood and early education.
+
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 2012
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2002-06-13
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID91-G52-525-07.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID91-G52-525-07.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

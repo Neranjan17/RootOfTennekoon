@@ -1,0 +1,62 @@
+ID: MID63-G52-719-57
+PROFILE_PICTURE: /Image/Contemporary/Pavithra_Profile.jpg
+SHORT_NAME: Pavithra Dissanayake
+FULL_NAME: Pavithra Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: P. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Pavithra D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Pavithra Dissanayake is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Pavithra has established a notable presence in Matara.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1996-06-22
+  PLACE: Colombo
+  NOTES: Registered birth in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: 2014
+    NOTES: Childhood and early education.
+
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2014
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 2019-08-24
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID63-G52-719-57.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID63-G52-719-57.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

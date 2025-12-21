@@ -40,12 +40,12 @@ class MembersDataLoader {
 
             const fileList = await response.json();
             console.log(`➤ YAML FILES LOADING: ${fileList.length} YAML data files found, which are mentioned in files.json!`);
-
+            let index = 1;
             for (const fileName of fileList) {
                 const fileResponse = await fetch(MembersDataLoader.MEMBERS_DATA_FILE_PATH + fileName);
 
                 if (!fileResponse.ok) {
-                    console.error("\t✗ " + fileName + " file mentioned in files.json was not found, Can not load it!");
+                    console.error(`\t[${index++}/${fileList.length}] ✗ ${fileName} file mentioned in files.json was not found, cannot load it!`);
                     continue;
                 }
 
@@ -53,7 +53,7 @@ class MembersDataLoader {
                 const data = jsyaml.load(text);
 
                 MembersDataLoader.MEMBERS_DATA_LIST.push(data);
-                console.log("\t✓ " + fileName + " is successfully loaded!");
+                console.log(`\t[${index++}/${fileList.length}] ✓ ${fileName} is successfully loaded!`);
             }
 
         } catch (err) {

@@ -1,0 +1,62 @@
+ID: MID72-G50-962-27
+PROFILE_PICTURE: /Image/Contemporary/Mahesh_Profile.jpg
+SHORT_NAME: Mahesh Jayawardena
+FULL_NAME: Mahesh Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: M. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Mahesh J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Mahesh Jayawardena is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Mahesh has established a notable presence in Anuradhapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1995-08-06
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2013
+    NOTES: Childhood and early education.
+
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2013
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2001-10-20
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID72-G50-962-27.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID72-G50-962-27.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

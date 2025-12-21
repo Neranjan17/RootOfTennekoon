@@ -1,0 +1,62 @@
+ID: MID60-G52-228-72
+PROFILE_PICTURE: /Image/Contemporary/Chamara_Profile.jpg
+SHORT_NAME: Chamara Perera
+FULL_NAME: Chamara Perera
+
+ALTERNATE_NAMES:
+  - NAME: C. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamara P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Chamara Perera is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamara has established a notable presence in Colombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1996-02-17
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: 2023
+    NOTES: Childhood and early education.
+
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2023
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2020-07-05
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID60-G52-228-72.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID60-G52-228-72.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID04-G50-000-89
+PROFILE_PICTURE: /Image/Contemporary/Dilshan_Profile.jpg
+SHORT_NAME: Dilshan Fernando
+FULL_NAME: Dilshan Fernando
+
+ALTERNATE_NAMES:
+  - NAME: D. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dilshan F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dilshan Fernando is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dilshan has established a notable presence in Colombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2004-01-15
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2004
+    TO_DATE: 2028
+    NOTES: Childhood and early education.
+
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2028
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 2018-12-01
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID04-G50-000-89.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID04-G50-000-89.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

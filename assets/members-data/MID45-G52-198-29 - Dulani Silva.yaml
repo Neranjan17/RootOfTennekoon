@@ -1,0 +1,62 @@
+ID: MID45-G52-198-29
+PROFILE_PICTURE: /Image/Contemporary/Dulani_Profile.jpg
+SHORT_NAME: Dulani Silva
+FULL_NAME: Dulani Silva
+
+ALTERNATE_NAMES:
+  - NAME: D. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dulani S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Dulani Silva is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Dulani has established a notable presence in Matara.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1997-12-12
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: 2017
+    NOTES: Childhood and early education.
+
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2017
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 2002-04-06
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID45-G52-198-29.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID45-G52-198-29.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID30-G52-522-89
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Profile.jpg
+SHORT_NAME: Malsha Bandara
+FULL_NAME: Malsha Bandara
+
+ALTERNATE_NAMES:
+  - NAME: M. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Bandara is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Malsha has established a notable presence in Anuradhapura.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1987-11-13
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1987
+    TO_DATE: 2011
+    NOTES: Childhood and early education.
+
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2011
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2022-02-20
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID30-G52-522-89.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID30-G52-522-89.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

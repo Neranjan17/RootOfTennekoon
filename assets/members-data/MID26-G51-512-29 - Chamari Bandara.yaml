@@ -1,0 +1,62 @@
+ID: MID26-G51-512-29
+PROFILE_PICTURE: /Image/Contemporary/Chamari_Profile.jpg
+SHORT_NAME: Chamari Bandara
+FULL_NAME: Chamari Bandara
+
+ALTERNATE_NAMES:
+  - NAME: C. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamari B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Chamari Bandara is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Chamari has established a notable presence in Colombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 1974-12-09
+  PLACE: Colombo
+  NOTES: Registered birth in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: 2000
+    NOTES: Childhood and early education.
+
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2012-01-13
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID26-G51-512-29.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID26-G51-512-29.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

@@ -1,0 +1,62 @@
+ID: MID21-G50-999-36
+PROFILE_PICTURE: /Image/Contemporary/Sachini_Profile.jpg
+SHORT_NAME: Sachini Fernando
+FULL_NAME: Sachini Fernando
+
+ALTERNATE_NAMES:
+  - NAME: S. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sachini F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sachini Fernando is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Sachini has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2000-03-27
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: 2023
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2023
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer (CEO)
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2024-03-25
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID21-G50-999-36.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID21-G50-999-36.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []

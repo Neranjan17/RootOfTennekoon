@@ -1,0 +1,62 @@
+ID: MID81-G51-700-72
+PROFILE_PICTURE: /Image/Contemporary/Nadeeka_Profile.jpg
+SHORT_NAME: Nadeeka Dissanayake
+FULL_NAME: Nadeeka Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: N. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nadeeka D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nadeeka Dissanayake is a contemporary professional with significant contributions
+  to the business sector. Known for leadership and community engagement,
+  Nadeeka has established a notable presence in Negombo.
+  Professional background includes extensive experience in management and
+  strategic planning within the private sector.
+
+BIRTH:
+  DATE: 2003-11-16
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 2003
+    TO_DATE: 2027
+    NOTES: Childhood and early education.
+
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2027
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 2024-10-07
+    TO_DATE: CURRENT
+    NOTES: Current professional position.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID81-G51-700-72.PDF
+
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID81-G51-700-72.PDF
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: []
