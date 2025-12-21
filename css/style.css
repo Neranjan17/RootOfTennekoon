@@ -159,9 +159,65 @@ section {
 
 
 
+/* -- Loading panel Eliments -- */
+.loading_container {
+    width: 100vw;
+    height: 100vh;
+    z-index: 2000;
+    backdrop-filter: blur(100px);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+}
 
+.loading_container.remove {
+    opacity: 0;
+    transform: scale(1.05);
+    pointer-events: none;
+}
 
+.middle_content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 
+.loading_gif_container {
+    width: 100px;
+    height: 50px;
+    background-image: url('../images/loading-anim.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.loading_text {
+    font-weight: normal;
+}
+
+.console_text {
+    width: 80%;
+    height: 50px;
+    margin-top: 15px;
+    color: var(--text-gray);
+    background: var(--bg-light);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: justify;
+    font-size: 0.9em;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
 
 /* -- Home Section Styling -- */
 #home {

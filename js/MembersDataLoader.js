@@ -15,8 +15,19 @@ class MembersDataLoader {
 
     getTotalGenerationsCount() {
 
-      // need to complete
-      return 18;
+      let genIdList = [];
+
+      for (let genId of MembersDataLoader.MEMBERS_DATA_LIST) {
+        
+        genId = genId.ID.substring(7, 9);
+
+        if (!genIdList.includes(genId)) {
+          genIdList.push(genId);
+        }
+      }
+
+      console.log("Calculated Generations count: ", genIdList.length);
+      return genIdList.length;
     }
 
     getYearsCount() {

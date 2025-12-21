@@ -9,7 +9,8 @@ let membersDataLoader = null;
 let familyTreeController = null;
 
 document.addEventListener("DOMContentLoaded", async () => {
-    console.log("Website loaded successfully!");
+
+    intConseleOnLoadingPanel();
 
     try {
         membersDataLoader = await MembersDataLoader.getInstance();
@@ -25,6 +26,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
             showFindMemberSearchPanel();
             initMemberSearch();
+
+            removeLoadingPanel();
         }
     } catch (error) {
         console.error("Failed to initialize member loader:", error);
@@ -33,6 +36,20 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 
 /* -- Comon -- */
+function intConseleOnLoadingPanel() {
+    const consoleText = document.getElementById("consoleText");
+    const originalLog = console.log;
+
+    console.log = function (...args) {
+        originalLog(...args);
+        consoleText.textContent = args.join(" ");
+    };
+}
+
+function removeLoadingPanel() {
+    document.getElementById("loadingContainer").classList.add("remove");
+}
+
 function initSnowfall() {
     const ACCENT_COLOR = '#4EBCC3';
 
