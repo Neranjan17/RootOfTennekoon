@@ -1,76 +1,105 @@
 class MembersDataLoader {
 
-    static MEMBERS_DATA_FILE_PATH = "./assets/members-data/";
-    static MEMBERS_DATA_LIST = [];
+  static MEMBERS_DATA_FILE_PATH = "./assets/members-data/";
+  static MEMBERS_DATA_LIST = [];
 
-    static async getInstance() {
-        const loader = new MembersDataLoader();
-        await loader.intLoadMemberData();
-        return loader;
-    }
+  static async getInstance() {
+    const loader = new MembersDataLoader();
+    await loader.intLoadMemberData();
 
-    getAllMembersCount() {
-      return MembersDataLoader.MEMBERS_DATA_LIST.length;
-    }
+    console.log("Member name: ", MembersDataLoader.MEMBERS_DATA_LIST[0].FULL_NAME);
+    console.log("Member Birth date string: ", MembersDataLoader.MEMBERS_DATA_LIST[0].BIRTH.DATE);
+    return loader;
+  }
 
-    getTotalGenerationsCount() {
+  getAllMembersCount() {
+    return MembersDataLoader.MEMBERS_DATA_LIST.length;
+  }
 
-      let genIdList = [];
+  getTotalGenerationsCount() {
 
-      for (let genId of MembersDataLoader.MEMBERS_DATA_LIST) {
-        
-        genId = genId.ID.substring(7, 9);
+    let genIdList = [];
 
-        if (!genIdList.includes(genId)) {
-          genIdList.push(genId);
-        }
+    for (let index = 0; index < MembersDataLoader.MEMBERS_DATA_LIST.length; index++) {
+
+      const memberID = this.getMemberIDByIndex(index);
+
+      if (memberID === null) {
+        continue;
       }
 
-      console.log("Calculated Generations count: ", genIdList.length);
-      return genIdList.length;
+      const genId = memberID.substring(7, 9);
+
+      if (!genIdList.includes(genId)) {
+        genIdList.push(genId);
+      }
+
     }
 
-    getYearsCount() {
+    console.log("Calculated Generations count: ", genIdList.length);
+    return genIdList.length;
+  }
 
-      // need to complete
-      const oldestYear = 1752;
-      const currentYear = new Date().getFullYear();
-      const yearCount = currentYear - oldestYear;
+  getYearsCount() {
 
-      return yearCount;
+    // need to complete this method later
+    const oldestYear = 1752;
+    const currentYear = new Date().getFullYear();
+    const yearCount = currentYear - oldestYear;
+
+    return yearCount;
+  }
+
+  getMemberIDByIndex(index) {
+    const memberID = MembersDataLoader.MEMBERS_DATA_LIST[index].ID
+
+    if (memberID === undefined) {
+      console.error(`Member ID is undefined : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
     }
 
-    async intLoadMemberData() {
-        try {
-            const response = await fetch(MembersDataLoader.MEMBERS_DATA_FILE_PATH + "files.json");
+    if (memberID === null) {
+      console.error(`Member ID is null : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
 
-            if (!response.ok) {
-                console.error("files.json file is missing!");
-                return;
-            }
+    return memberID;
+  }
 
-            const fileList = await response.json();
-            console.log(`➤ YAML FILES LOADING: ${fileList.length} YAML data files found, which are mentioned in files.json!`);
-            let index = 1;
-            for (const fileName of fileList) {
-                const fileResponse = await fetch(MembersDataLoader.MEMBERS_DATA_FILE_PATH + fileName);
+  async intLoadMemberData() {
+    try {
+      const response = await fetch(MembersDataLoader.MEMBERS_DATA_FILE_PATH + "files.json");
 
-                if (!fileResponse.ok) {
-                    console.error(`\t[${index++}/${fileList.length}] ✗ ${fileName} file mentioned in files.json was not found, cannot load it!`);
-                    continue;
-                }
+      if (!response.ok) {
+        console.error("files.json file is missing!");
+        return;
+      }
 
-                const text = await fileResponse.text();
-                const data = jsyaml.load(text);
+      const fileList = await response.json();
+      console.log(`➤ YAML FILES LOADING: ${fileList.length} YAML data files found, which are mentioned in files.json!`);
+      let index = 1;
+      for (const fileName of fileList) {
+        const fileResponse = await fetch(MembersDataLoader.MEMBERS_DATA_FILE_PATH + fileName);
 
-                MembersDataLoader.MEMBERS_DATA_LIST.push(data);
-                console.log(`\t[${index++}/${fileList.length}] ✓ ${fileName} is successfully loaded!`);
-            }
-
-        } catch (err) {
-            console.error("Error loading member data:", err);
+        if (!fileResponse.ok) {
+          console.error(`\t[${index++}/${fileList.length}] ✗ ${fileName} file mentioned in files.json was not found, cannot load it!`);
+          continue;
         }
+
+        const text = await fileResponse.text();
+        const data = jsyaml.load(text);
+
+        MembersDataLoader.MEMBERS_DATA_LIST.push({
+          fileName: fileName,
+          ...data
+        });
+        console.log(`\t[${index++}/${fileList.length}] ✓ ${fileName} is successfully loaded!`);
+      }
+
+    } catch (err) {
+      console.error("Error loading member data:", err);
     }
+  }
 }
 
 export default MembersDataLoader;

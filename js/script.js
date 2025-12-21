@@ -47,6 +47,10 @@ function intConseleOnLoadingPanel() {
 }
 
 function removeLoadingPanel() {
+    
+    const homeSection = document.getElementById("home");
+    homeSection.scrollIntoView({ behavior: "smooth" });
+
     document.getElementById("loadingContainer").classList.add("remove");
 }
 
@@ -278,7 +282,7 @@ function displayTreePersonInfoDiv(clickedId) {
     showMoreBtn.addEventListener('click', () => {
         loadDataToFindMemberSectionById(clickedId);
         const familyTreeSection = document.getElementById('FindMember');
-        familyTreeSection.scrollIntoView({});
+        familyTreeSection.scrollIntoView({ behavior: "smooth" });
     });
 }
 
@@ -399,7 +403,7 @@ function loadDataToFindMemberSectionById(Id) {
 
     viewMemberOnTheTreeBtn.addEventListener('click', () => {
         const familyTreeSection = document.getElementById('familyTree');
-        familyTreeSection.scrollIntoView({});
+        familyTreeSection.scrollIntoView({ behavior: "smooth" });
 
         const centerCoords = getViewPortCenterCoordinate();
         familyTreeController.autoPanToSvgElement(Id, centerCoords.centerX, centerCoords.centerY);
