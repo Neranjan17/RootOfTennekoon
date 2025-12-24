@@ -7,13 +7,36 @@ class MembersDataLoader {
     const loader = new MembersDataLoader();
     await loader.intLoadMemberData();
 
-    console.log("Member name: ", MembersDataLoader.MEMBERS_DATA_LIST[0].FULL_NAME);
-    console.log("Member Birth date string: ", MembersDataLoader.MEMBERS_DATA_LIST[0].BIRTH.DATE);
+    const membersCount = MembersDataLoader.MEMBERS_DATA_LIST.length;
+
+    for (let index = 0; index < membersCount; index++) {
+
+      console.log("-------------------------------");
+      console.log(`[${index + 1}/${membersCount}]`);
+      console.log(`Member ID : ${loader.getMemberIDByIndex(index)}`);
+      console.log("birth Info");
+      const birthInfo = loader.getMemberBirthInfoByIndex(index);
+      
+      if (birthInfo === null) {
+        console.log("\tNo birth information available.");
+        continue;
+      } else {
+        console.log(`\tbirth year : ${loader.getMemberBirthInfoByIndex(index).DATE}`);
+        console.log(`\tbirth place : ${loader.getMemberBirthInfoByIndex(index).PLACE}`);
+        console.log(`\tbirth note : ${loader.getMemberBirthInfoByIndex(index).NOTES}`);
+      }
+      console.log("---------------------------------------");
+
+
+    }
+
     return loader;
   }
 
   getAllMembersCount() {
-    return MembersDataLoader.MEMBERS_DATA_LIST.length;
+    const memberCount = MembersDataLoader.MEMBERS_DATA_LIST.length;
+    console.log("Calculated members count: ", memberCount);
+    return memberCount;
   }
 
   getTotalGenerationsCount() {
@@ -42,28 +65,159 @@ class MembersDataLoader {
 
   getYearsCount() {
 
-    // need to complete this method later
-    const oldestYear = 1752;
+    let oldestYear = new Date().getFullYear();
+
+    for (let index = 0; index < MembersDataLoader.MEMBERS_DATA_LIST.length; index++) {
+
+      const birthYear = parseInt(this.getMemberBirthInfoByIndex(index).DATE.split("-")[0]);
+
+      if (birthYear < oldestYear) {
+        oldestYear = birthYear;
+      }
+    }
+
     const currentYear = new Date().getFullYear();
     const yearCount = currentYear - oldestYear;
 
+    console.log("Calculated years count: ", yearCount);
     return yearCount;
   }
 
+  getMemberDeathInfoByIndex(index) {
+
+    // need to complete 
+
+    const memberDeathInfo = MembersDataLoader.MEMBERS_DATA_LIST[index].DEATH;
+
+    if (memberDeathInfo === undefined) {
+      return "ALIVE";
+    }
+
+    if (memberDeathInfo === null) {
+      return "UNKNOWN";
+    }
+
+    if (typeof memberDeathInfo === 'string' && memberDeathInfo !== "UNKNOWN" && memberDeathInfo !== "ALIVE") {
+      console.error(`Invalid Format: DEATH must be an object or "UNKNOWN" or "ALIVE" string : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
+
+    if (typeof memberDeathInfo !== 'object' && typeof memberDeathInfo !== 'string') {
+      console.error(`Invalid Format: DEATH must be an object or a string : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
+
+    let date = memberDeathInfo.DATE;
+    let place = memberDeathInfo.PLACE;
+    let notes = memberDeathInfo.NOTES;
+
+    if (date === undefined || date === null) {
+      date = "UNKNOWN";
+    }
+    else if (!this.isValidDateTimeFormat(date) && date !== "UNKNOWN") {
+      console.error(`Invalid Format: ${date} is not right Death date format: ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      date = "UNKNOWN";
+    }
+
+    if (place === undefined || place === null || place === "UNKNOWN") {
+      place = "UNKNOWN";
+    }
+
+    if (notes === undefined || notes === null || notes === "UNKNOWN") {
+      notes = "UNKNOWN";
+    }
+
+    memberDeathInfo.DATE = date;
+    memberDeathInfo.PLACE = place;
+    memberDeathInfo.NOTES = notes;
+
+    return memberDeathInfo;
+  }
+
+  getMemberBirthInfoByIndex(index) {
+    const memberBirthInfo = MembersDataLoader.MEMBERS_DATA_LIST[index].BIRTH;
+
+    if (memberBirthInfo === null || memberBirthInfo === undefined) {
+      return null;
+    }
+
+    if (typeof memberBirthInfo !== 'object') {
+      console.error(`Invalid Format: BIRTH must be an object : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
+
+    const date = memberBirthInfo.DATE;
+    const place = memberBirthInfo.PLACE;
+    const notes = memberBirthInfo.NOTES;
+
+    if (date === undefined || date === null) {
+      date = "UNKNOWN";
+    } else if (!this.isValidDateTimeFormat(date) && date !== "UNKNOWN") {
+      console.error(`Invalid Format: ${date} is not right Birth date format: ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      date = "UNKNOWN";
+    }
+
+    if (place === undefined || place === null || place === "UNKNOWN") {
+      place = "UNKNOWN";
+    }
+
+    if (notes === undefined || notes === null || notes === "UNKNOWN") {
+      notes = "UNKNOWN";
+    }
+
+    memberBirthInfo.DATE = date;
+    memberBirthInfo.PLACE = place;
+    memberBirthInfo.NOTES = notes;
+    return memberBirthInfo;
+  }
+
   getMemberIDByIndex(index) {
-    const memberID = MembersDataLoader.MEMBERS_DATA_LIST[index].ID
+    const memberID = MembersDataLoader.MEMBERS_DATA_LIST[index].ID;
 
     if (memberID === undefined) {
-      console.error(`Member ID is undefined : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      console.error(`Member ID received: Member ID is undefined : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
       return null;
     }
 
     if (memberID === null) {
-      console.error(`Member ID is null : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      console.error(`Member ID received: Member ID is null : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
+
+    if (typeof memberID !== 'string') {
+      console.error(`Invalid Data type: Member ID must be a string : ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
+      return null;
+    }
+
+    if (!this.isValidMemberIdFormat(memberID)) {
+      console.error(`Invalid Format: Please use this format MID00-G00-000-00. File: ${MembersDataLoader.MEMBERS_DATA_LIST[index].fileName}`);
       return null;
     }
 
     return memberID;
+  }
+
+  isValidDateTimeFormat(dateTimeStr) {
+
+    // yyyy
+    if (/^\d{4}$/.test(dateTimeStr)) return true;
+    // yyyy-mm
+    if (/^\d{4}-\d{2}$/.test(dateTimeStr)) return true;
+    // yyyy-mm-dd
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dateTimeStr)) return true;
+    // yyyy-mm-dd hh
+    if (/^\d{4}-\d{2}-\d{2} \d{2}$/.test(dateTimeStr)) return true;
+    // yyyy-mm-dd hh:mm
+    if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/.test(dateTimeStr)) return true;
+    // yyyy-mm-dd hh:mm:ss
+    if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(dateTimeStr)) return true;
+
+    return false;
+  }
+
+  isValidMemberIdFormat(memberID) {
+    const regex = /^MID\d{2}-G\d{2}-\d{3}-\d{2}$/;
+    return regex.test(memberID);
   }
 
   async intLoadMemberData() {
@@ -87,7 +241,7 @@ class MembersDataLoader {
         }
 
         const text = await fileResponse.text();
-        const data = jsyaml.load(text);
+        const data = jsyaml.load(text, { schema: jsyaml.JSON_SCHEMA });
 
         MembersDataLoader.MEMBERS_DATA_LIST.push({
           fileName: fileName,
