@@ -1,0 +1,61 @@
+ID: MID77-G50-605-65
+PROFILE_PICTURE: /Image/Contemporary/Saman_De_Silva_Profile.jpg
+SHORT_NAME: Saman De Silva
+FULL_NAME: Saman De Silva
+
+ALTERNATE_NAMES:
+  - NAME: S. De Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman De Silva D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: De Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman De Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1976-08-03
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: 1996
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 1998
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID77-G50-605-65.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID77-G50-605-65.PDF
+
+PARENTS:
+  FATHER: MID81-G49-364-38
+  MOTHER: MID21-G49-563-90
+
+MARRIAGES: UNMARRIED

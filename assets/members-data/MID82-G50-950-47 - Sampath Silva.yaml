@@ -1,0 +1,46 @@
+ID: MID82-G50-950-47
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Sampath Silva
+FULL_NAME: Sampath Silva
+
+ALTERNATE_NAMES:
+  - NAME: S. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1961-05-18
+  PLACE: Jaffna
+  NOTES: Born in Jaffna, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1961
+    TO_DATE: 1981
+    NOTES: Childhood and education.
+    
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1981
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

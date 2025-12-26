@@ -1,0 +1,66 @@
+ID: MID28-G52-043-71
+PROFILE_PICTURE: /Image/Contemporary/Madhavi_Karunaratne_Profile.jpg
+SHORT_NAME: Madhavi Karunaratne
+FULL_NAME: Madhavi Karunaratne
+
+ALTERNATE_NAMES:
+  - NAME: M. Karunaratne
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Madhavi Karunaratne K.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Karunaratne
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Madhavi Karunaratne is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1986-06-05
+  PLACE: Hambantota
+  NOTES: Registered birth in Hambantota, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1986
+    TO_DATE: 2006
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 2006
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID28-G52-043-71.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID28-G52-043-71.PDF
+
+PARENTS:
+  FATHER: MID44-G51-906-13
+  MOTHER: MID58-G51-315-15
+
+MARRIAGES:
+  - PARTNER: MID51-G52-738-74
+    DATE: 2014-06-07
+    PLACE: Galle Face Hotel, Colombo
+    FATE: ONGOING
+    CHILDREN: NONE

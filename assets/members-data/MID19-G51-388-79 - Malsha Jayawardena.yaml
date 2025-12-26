@@ -1,0 +1,66 @@
+ID: MID19-G51-388-79
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Jayawardena_Profile.jpg
+SHORT_NAME: Malsha Jayawardena
+FULL_NAME: Malsha Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: M. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha Jayawardena J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Jayawardena is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1954-10-09
+  PLACE: Kandy
+  NOTES: Registered birth in Kandy, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1954
+    TO_DATE: 1974
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 1983
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID19-G51-388-79.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID19-G51-388-79.PDF
+
+PARENTS:
+  FATHER: MID27-G50-029-04
+  MOTHER: MID28-G50-018-03
+
+MARRIAGES:
+  - PARTNER: MID20-G51-139-20
+    DATE: 1981-02-19
+    PLACE: Jetwing Beach, Negombo
+    FATE: ONGOING
+    CHILDREN: NONE

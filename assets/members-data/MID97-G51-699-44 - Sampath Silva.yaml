@@ -1,0 +1,72 @@
+ID: MID97-G51-699-44
+PROFILE_PICTURE: /Image/Contemporary/Sampath_Silva_Profile.jpg
+SHORT_NAME: Sampath Silva
+FULL_NAME: Sampath Silva
+
+ALTERNATE_NAMES:
+  - NAME: S. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sampath Silva S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sampath Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1957-06-28
+  PLACE: Puttalam
+  NOTES: Registered birth in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1957
+    TO_DATE: 1977
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1977
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Project Manager
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1982
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID97-G51-699-44.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID97-G51-699-44.PDF
+
+PARENTS:
+  FATHER: MID39-G50-815-77
+  MOTHER: MID54-G50-618-57
+
+MARRIAGES:
+  - PARTNER: MID83-G51-284-46
+    DATE: 1991-01-26
+    PLACE: St. Mary's Church, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID39-G52-732-82
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID27-G52-250-46
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

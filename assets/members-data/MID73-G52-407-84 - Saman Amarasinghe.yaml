@@ -1,0 +1,78 @@
+ID: MID73-G52-407-84
+PROFILE_PICTURE: /Image/Contemporary/Saman_Amarasinghe_Profile.jpg
+SHORT_NAME: Saman Amarasinghe
+FULL_NAME: Saman Amarasinghe
+
+ALTERNATE_NAMES:
+  - NAME: S. Amarasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Saman Amarasinghe A.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Amarasinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Saman Amarasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1991-11-28
+  PLACE: Anuradhapura
+  NOTES: Registered birth in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1991
+    TO_DATE: 2011
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 2011
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2014
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID73-G52-407-84.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID73-G52-407-84.PDF
+
+PARENTS:
+  FATHER: MID20-G51-572-23
+  MOTHER: MID48-G51-658-33
+
+MARRIAGES:
+  - PARTNER: MID48-G52-006-45
+    DATE: 2014-04-19
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID18-G53-000-95
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID45-G53-263-34
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID79-G53-683-07
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID24-G53-664-07
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

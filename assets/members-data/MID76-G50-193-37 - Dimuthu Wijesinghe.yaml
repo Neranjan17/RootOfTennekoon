@@ -1,0 +1,46 @@
+ID: MID76-G50-193-37
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Dimuthu Wijesinghe
+FULL_NAME: Dimuthu Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: D. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Wijesinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1993-05-07
+  PLACE: Colombo
+  NOTES: Born in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: 2013
+    NOTES: Childhood and education.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 2013
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Human Resources
+    INSTITUTION: Zenith Corporation
+    FORM_DATE: 2025
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

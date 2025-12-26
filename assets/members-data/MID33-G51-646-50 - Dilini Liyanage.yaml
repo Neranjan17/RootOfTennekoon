@@ -1,0 +1,78 @@
+ID: MID33-G51-646-50
+PROFILE_PICTURE: /Image/Contemporary/Dilini_Liyanage_Profile.jpg
+SHORT_NAME: Dilini Liyanage
+FULL_NAME: Dilini Liyanage
+
+ALTERNATE_NAMES:
+  - NAME: D. Liyanage
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dilini Liyanage L.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Liyanage
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Dilini Liyanage is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1958-02-09
+  PLACE: Kandy
+  NOTES: Registered birth in Kandy, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1958
+    TO_DATE: 1978
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1978
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 1989
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID33-G51-646-50.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID33-G51-646-50.PDF
+
+PARENTS:
+  FATHER: MID22-G50-677-18
+  MOTHER: MID88-G50-501-05
+
+MARRIAGES:
+  - PARTNER: MID15-G51-510-99
+    DATE: 1992-06-17
+    PLACE: Mount Lavinia Hotel
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID52-G52-881-66
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID15-G52-839-03
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID89-G52-105-26
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID52-G52-010-45
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

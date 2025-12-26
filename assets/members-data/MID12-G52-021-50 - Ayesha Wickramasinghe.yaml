@@ -1,0 +1,61 @@
+ID: MID12-G52-021-50
+PROFILE_PICTURE: /Image/Contemporary/Ayesha_Wickramasinghe_Profile.jpg
+SHORT_NAME: Ayesha Wickramasinghe
+FULL_NAME: Ayesha Wickramasinghe
+
+ALTERNATE_NAMES:
+  - NAME: A. Wickramasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ayesha Wickramasinghe W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wickramasinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Ayesha Wickramasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1950-02-11
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1950
+    TO_DATE: 1970
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Business Development Manager
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 1979
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID12-G52-021-50.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID12-G52-021-50.PDF
+
+PARENTS:
+  FATHER: MID68-G51-462-17
+  MOTHER: MID53-G51-704-40
+
+MARRIAGES: UNMARRIED

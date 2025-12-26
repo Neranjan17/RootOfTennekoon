@@ -1,0 +1,75 @@
+ID: MID53-G52-165-16
+PROFILE_PICTURE: /Image/Contemporary/Ashan_Wijesinghe_Profile.jpg
+SHORT_NAME: Ashan Wijesinghe
+FULL_NAME: Ashan Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: A. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ashan Wijesinghe W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ashan Wijesinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1991-02-16
+  PLACE: Kalutara
+  NOTES: Registered birth in Kalutara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1991
+    TO_DATE: 2011
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 2011
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 2019
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID53-G52-165-16.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID53-G52-165-16.PDF
+
+PARENTS:
+  FATHER: MID86-G51-645-83
+  MOTHER: MID80-G51-255-18
+
+MARRIAGES:
+  - PARTNER: MID30-G52-562-28
+    DATE: 2015-02-14
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID62-G53-204-24
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID56-G53-534-63
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID17-G53-228-65
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

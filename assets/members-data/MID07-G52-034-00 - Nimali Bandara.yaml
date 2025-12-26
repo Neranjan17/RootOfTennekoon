@@ -1,0 +1,69 @@
+ID: MID07-G52-034-00
+PROFILE_PICTURE: /Image/Contemporary/Nimali_Bandara_Profile.jpg
+SHORT_NAME: Nimali Bandara
+FULL_NAME: Nimali Bandara
+
+ALTERNATE_NAMES:
+  - NAME: N. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nimali Bandara B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nimali Bandara is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1969-01-17
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1969
+    TO_DATE: 1989
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1989
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 1998
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID07-G52-034-00.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID07-G52-034-00.PDF
+
+PARENTS:
+  FATHER: MID09-G51-180-40
+  MOTHER: MID79-G51-362-03
+
+MARRIAGES:
+  - PARTNER: MID51-G52-549-62
+    DATE: 2003-04-12
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID98-G53-297-71
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

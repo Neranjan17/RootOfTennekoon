@@ -1,0 +1,61 @@
+ID: MID53-G51-598-80
+PROFILE_PICTURE: /Image/Contemporary/Sunil_Fernando_Profile.jpg
+SHORT_NAME: Sunil Fernando
+FULL_NAME: Sunil Fernando
+
+ALTERNATE_NAMES:
+  - NAME: S. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sunil Fernando F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sunil Fernando is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1954-01-26
+  PLACE: Kegalle
+  NOTES: Registered birth in Kegalle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 1954
+    TO_DATE: 1974
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Financial Officer
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1985
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID53-G51-598-80.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID53-G51-598-80.PDF
+
+PARENTS:
+  FATHER: MID57-G50-294-20
+  MOTHER: MID45-G50-710-73
+
+MARRIAGES: UNMARRIED

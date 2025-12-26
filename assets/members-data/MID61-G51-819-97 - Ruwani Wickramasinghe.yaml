@@ -1,0 +1,46 @@
+ID: MID61-G51-819-97
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Ruwani Wickramasinghe
+FULL_NAME: Ruwani Wickramasinghe
+
+ALTERNATE_NAMES:
+  - NAME: R. Wickramasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Wickramasinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1956-01-20
+  PLACE: Trincomalee
+  NOTES: Born in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1956
+    TO_DATE: 1976
+    NOTES: Childhood and education.
+    
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

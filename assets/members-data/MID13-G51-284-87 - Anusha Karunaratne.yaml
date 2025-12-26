@@ -1,0 +1,61 @@
+ID: MID13-G51-284-87
+PROFILE_PICTURE: /Image/Contemporary/Anusha_Karunaratne_Profile.jpg
+SHORT_NAME: Anusha Karunaratne
+FULL_NAME: Anusha Karunaratne
+
+ALTERNATE_NAMES:
+  - NAME: A. Karunaratne
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Anusha Karunaratne K.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Karunaratne
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Anusha Karunaratne is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1995-05-01
+  PLACE: Colombo
+  NOTES: Registered birth in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2015
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 2015
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID13-G51-284-87.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID13-G51-284-87.PDF
+
+PARENTS:
+  FATHER: MID71-G50-044-02
+  MOTHER: MID44-G50-070-94
+
+MARRIAGES: UNMARRIED

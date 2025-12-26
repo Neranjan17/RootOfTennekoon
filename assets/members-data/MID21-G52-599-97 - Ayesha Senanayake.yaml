@@ -1,0 +1,75 @@
+ID: MID21-G52-599-97
+PROFILE_PICTURE: /Image/Contemporary/Ayesha_Senanayake_Profile.jpg
+SHORT_NAME: Ayesha Senanayake
+FULL_NAME: Ayesha Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: A. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ayesha Senanayake S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Ayesha Senanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1957-01-09
+  PLACE: Chilaw
+  NOTES: Registered birth in Chilaw, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Chilaw, Sri Lanka
+    FORM_DATE: 1957
+    TO_DATE: 1977
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 1977
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1982
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID21-G52-599-97.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID21-G52-599-97.PDF
+
+PARENTS:
+  FATHER: MID71-G51-049-47
+  MOTHER: MID60-G51-432-77
+
+MARRIAGES:
+  - PARTNER: MID81-G52-620-15
+    DATE: 1984-06-10
+    PLACE: Jetwing Beach, Negombo
+    FATE: SEPARATED
+    CHILDREN:
+      - CHILD: MID90-G53-262-23
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID72-G53-269-15
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID00-G53-762-37
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

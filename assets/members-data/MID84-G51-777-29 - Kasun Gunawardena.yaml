@@ -1,0 +1,75 @@
+ID: MID84-G51-777-29
+PROFILE_PICTURE: /Image/Contemporary/Kasun_Gunawardena_Profile.jpg
+SHORT_NAME: Kasun Gunawardena
+FULL_NAME: Kasun Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: K. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Kasun Gunawardena G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Kasun Gunawardena is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1992-04-16
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1992
+    TO_DATE: 2012
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 2012
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2014
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID84-G51-777-29.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID84-G51-777-29.PDF
+
+PARENTS:
+  FATHER: MID16-G50-826-44
+  MOTHER: MID84-G50-381-03
+
+MARRIAGES:
+  - PARTNER: MID48-G51-447-51
+    DATE: 2020-12-13
+    PLACE: Galle Face Hotel, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID07-G52-032-57
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID52-G52-190-76
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID99-G52-888-38
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

@@ -1,0 +1,78 @@
+ID: MID61-G50-660-83
+PROFILE_PICTURE: /Image/Contemporary/Thilini_Perera_Profile.jpg
+SHORT_NAME: Thilini Perera
+FULL_NAME: Thilini Perera
+
+ALTERNATE_NAMES:
+  - NAME: T. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Thilini Perera P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Thilini Perera is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1971-04-21
+  PLACE: Kalutara
+  NOTES: Registered birth in Kalutara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1971
+    TO_DATE: 1991
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1991
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Zenith Corporation
+    FORM_DATE: 1998
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID61-G50-660-83.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID61-G50-660-83.PDF
+
+PARENTS:
+  FATHER: MID22-G49-767-16
+  MOTHER: MID38-G49-139-81
+
+MARRIAGES:
+  - PARTNER: MID56-G50-116-63
+    DATE: 2001-11-11
+    PLACE: Galle Face Hotel, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID24-G51-927-18
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID49-G51-196-49
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID40-G51-777-08
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID91-G51-464-98
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

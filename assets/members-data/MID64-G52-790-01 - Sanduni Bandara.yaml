@@ -1,0 +1,78 @@
+ID: MID64-G52-790-01
+PROFILE_PICTURE: /Image/Contemporary/Sanduni_Bandara_Profile.jpg
+SHORT_NAME: Sanduni Bandara
+FULL_NAME: Sanduni Bandara
+
+ALTERNATE_NAMES:
+  - NAME: S. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sanduni Bandara B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sanduni Bandara is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1993-02-10
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: 2013
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 2013
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2024
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID64-G52-790-01.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID64-G52-790-01.PDF
+
+PARENTS:
+  FATHER: MID38-G51-741-20
+  MOTHER: MID83-G51-459-29
+
+MARRIAGES:
+  - PARTNER: MID60-G52-854-57
+    DATE: 2026-08-16
+    PLACE: St. Mary's Church, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID53-G53-130-83
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID35-G53-102-89
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID93-G53-280-20
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID38-G53-841-74
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

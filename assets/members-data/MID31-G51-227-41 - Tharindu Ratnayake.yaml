@@ -1,0 +1,72 @@
+ID: MID31-G51-227-41
+PROFILE_PICTURE: /Image/Contemporary/Tharindu_Ratnayake_Profile.jpg
+SHORT_NAME: Tharindu Ratnayake
+FULL_NAME: Tharindu Ratnayake
+
+ALTERNATE_NAMES:
+  - NAME: T. Ratnayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Tharindu Ratnayake R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Ratnayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Tharindu Ratnayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1958-08-06
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1958
+    TO_DATE: 1978
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1978
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 1980
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID31-G51-227-41.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID31-G51-227-41.PDF
+
+PARENTS:
+  FATHER: MID99-G50-277-65
+  MOTHER: MID78-G50-310-68
+
+MARRIAGES:
+  - PARTNER: MID94-G51-772-61
+    DATE: 1981-10-16
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID55-G52-632-39
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID52-G52-360-69
+        ORDER: 2
+        PARENTAGE: ADOPTED

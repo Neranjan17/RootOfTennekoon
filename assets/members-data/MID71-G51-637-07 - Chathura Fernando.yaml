@@ -1,0 +1,72 @@
+ID: MID71-G51-637-07
+PROFILE_PICTURE: /Image/Contemporary/Chathura_Fernando_Profile.jpg
+SHORT_NAME: Chathura Fernando
+FULL_NAME: Chathura Fernando
+
+ALTERNATE_NAMES:
+  - NAME: C. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chathura Fernando F.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Fernando
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Chathura Fernando is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1968-11-24
+  PLACE: Chilaw
+  NOTES: Registered birth in Chilaw, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Chilaw, Sri Lanka
+    FORM_DATE: 1968
+    TO_DATE: 1988
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1988
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Human Resources
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID71-G51-637-07.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID71-G51-637-07.PDF
+
+PARENTS:
+  FATHER: MID07-G50-381-28
+  MOTHER: MID85-G50-309-11
+
+MARRIAGES:
+  - PARTNER: MID15-G51-528-98
+    DATE: 1994-12-09
+    PLACE: Cinnamon Grand, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID12-G52-525-20
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID37-G52-165-14
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

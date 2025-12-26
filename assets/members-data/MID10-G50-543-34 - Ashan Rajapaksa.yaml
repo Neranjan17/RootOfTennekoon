@@ -1,0 +1,75 @@
+ID: MID10-G50-543-34
+PROFILE_PICTURE: /Image/Contemporary/Ashan_Rajapaksa_Profile.jpg
+SHORT_NAME: Ashan Rajapaksa
+FULL_NAME: Ashan Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: A. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ashan Rajapaksa R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ashan Rajapaksa is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1989-02-03
+  PLACE: Chilaw
+  NOTES: Registered birth in Chilaw, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Chilaw, Sri Lanka
+    FORM_DATE: 1989
+    TO_DATE: 2009
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2009
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID10-G50-543-34.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID10-G50-543-34.PDF
+
+PARENTS:
+  FATHER: MID40-G49-814-16
+  MOTHER: MID25-G49-572-90
+
+MARRIAGES:
+  - PARTNER: MID33-G50-215-57
+    DATE: 2016-12-09
+    PLACE: Jetwing Beach, Negombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID85-G51-615-53
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID93-G51-114-89
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID93-G51-269-17
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

@@ -1,0 +1,69 @@
+ID: MID84-G51-553-69
+PROFILE_PICTURE: /Image/Contemporary/Sampath_Dissanayake_Profile.jpg
+SHORT_NAME: Sampath Dissanayake
+FULL_NAME: Sampath Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: S. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sampath Dissanayake D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sampath Dissanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1961-12-07
+  PLACE: Puttalam
+  NOTES: Registered birth in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1961
+    TO_DATE: 1981
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1981
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Human Resources
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 1989
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID84-G51-553-69.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID84-G51-553-69.PDF
+
+PARENTS:
+  FATHER: MID52-G50-164-02
+  MOTHER: MID42-G50-000-55
+
+MARRIAGES:
+  - PARTNER: MID84-G51-036-05
+    DATE: 1993-03-08
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID90-G52-205-94
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

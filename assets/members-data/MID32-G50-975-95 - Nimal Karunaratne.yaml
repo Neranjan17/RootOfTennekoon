@@ -1,0 +1,21 @@
+ID: MID32-G50-975-95
+SHORT_NAME: Nimal Karunaratne
+FULL_NAME: Nimal Karunaratne
+FAMILY_NAME: Karunaratne
+GENDER: MALE
+
+BIRTH:
+  DATE: 1956-01-18
+  PLACE: Nuwara Eliya
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Nuwara Eliya, Sri Lanka
+    FORM_DATE: 1956
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

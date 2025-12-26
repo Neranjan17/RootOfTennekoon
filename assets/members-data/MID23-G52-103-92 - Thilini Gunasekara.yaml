@@ -1,0 +1,72 @@
+ID: MID23-G52-103-92
+PROFILE_PICTURE: /Image/Contemporary/Thilini_Gunasekara_Profile.jpg
+SHORT_NAME: Thilini Gunasekara
+FULL_NAME: Thilini Gunasekara
+
+ALTERNATE_NAMES:
+  - NAME: T. Gunasekara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Thilini Gunasekara G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunasekara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Thilini Gunasekara is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1980-09-13
+  PLACE: Vavuniya
+  NOTES: Registered birth in Vavuniya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1980
+    TO_DATE: 2000
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer
+    INSTITUTION: Lanka Digital Services
+    FORM_DATE: 2004
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID23-G52-103-92.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID23-G52-103-92.PDF
+
+PARENTS:
+  FATHER: MID39-G51-578-92
+  MOTHER: MID84-G51-505-35
+
+MARRIAGES:
+  - PARTNER: MID09-G52-879-82
+    DATE: 2015-09-15
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID15-G53-023-17
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID19-G53-135-94
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

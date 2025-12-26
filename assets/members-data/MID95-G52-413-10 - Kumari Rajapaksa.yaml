@@ -1,0 +1,46 @@
+ID: MID95-G52-413-10
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Kumari Rajapaksa
+FULL_NAME: Kumari Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: K. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1954-01-07
+  PLACE: Puttalam
+  NOTES: Born in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1954
+    TO_DATE: 1974
+    NOTES: Childhood and education.
+    
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 1976
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

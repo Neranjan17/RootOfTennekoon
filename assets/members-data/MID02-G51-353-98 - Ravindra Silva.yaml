@@ -1,0 +1,69 @@
+ID: MID02-G51-353-98
+PROFILE_PICTURE: /Image/Contemporary/Ravindra_Silva_Profile.jpg
+SHORT_NAME: Ravindra Silva
+FULL_NAME: Ravindra Silva
+
+ALTERNATE_NAMES:
+  - NAME: R. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ravindra Silva S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ravindra Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 2000-05-04
+  PLACE: Nuwara Eliya
+  NOTES: Registered birth in Nuwara Eliya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Nuwara Eliya, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: 2020
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2025
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID02-G51-353-98.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID02-G51-353-98.PDF
+
+PARENTS:
+  FATHER: MID20-G50-901-56
+  MOTHER: MID90-G50-854-94
+
+MARRIAGES:
+  - PARTNER: MID32-G51-599-12
+    DATE: 2032-12-01
+    PLACE: Hilton Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID22-G52-269-23
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

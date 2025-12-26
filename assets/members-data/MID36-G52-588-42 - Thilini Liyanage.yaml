@@ -1,0 +1,61 @@
+ID: MID36-G52-588-42
+PROFILE_PICTURE: /Image/Contemporary/Thilini_Liyanage_Profile.jpg
+SHORT_NAME: Thilini Liyanage
+FULL_NAME: Thilini Liyanage
+
+ALTERNATE_NAMES:
+  - NAME: T. Liyanage
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Thilini Liyanage L.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Liyanage
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Thilini Liyanage is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1962-07-24
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1962
+    TO_DATE: 1982
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1982
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Business Development Manager
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 1988
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID36-G52-588-42.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID36-G52-588-42.PDF
+
+PARENTS:
+  FATHER: MID84-G51-637-17
+  MOTHER: MID70-G51-431-26
+
+MARRIAGES: UNMARRIED

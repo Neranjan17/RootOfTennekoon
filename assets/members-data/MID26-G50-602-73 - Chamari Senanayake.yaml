@@ -1,0 +1,72 @@
+ID: MID26-G50-602-73
+PROFILE_PICTURE: /Image/Contemporary/Chamari_Senanayake_Profile.jpg
+SHORT_NAME: Chamari Senanayake
+FULL_NAME: Chamari Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: C. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Chamari Senanayake S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Chamari Senanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1970-08-04
+  PLACE: Kalutara
+  NOTES: Registered birth in Kalutara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: 1990
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 1999
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID26-G50-602-73.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID26-G50-602-73.PDF
+
+PARENTS:
+  FATHER: MID01-G49-876-81
+  MOTHER: MID50-G49-767-24
+
+MARRIAGES:
+  - PARTNER: MID51-G50-231-30
+    DATE: 1992-07-28
+    PLACE: Taj Samudra, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID16-G51-562-20
+        ORDER: 1
+        PARENTAGE: ADOPTED
+      - CHILD: MID29-G51-034-18
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

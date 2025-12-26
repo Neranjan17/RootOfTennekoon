@@ -1,0 +1,66 @@
+ID: MID52-G50-267-73
+PROFILE_PICTURE: /Image/Contemporary/Sampath_Ratnayake_Profile.jpg
+SHORT_NAME: Sampath Ratnayake
+FULL_NAME: Sampath Ratnayake
+
+ALTERNATE_NAMES:
+  - NAME: S. Ratnayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sampath Ratnayake R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Ratnayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sampath Ratnayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 2000-11-15
+  PLACE: Puttalam
+  NOTES: Registered birth in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: 2020
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2026
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID52-G50-267-73.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID52-G50-267-73.PDF
+
+PARENTS:
+  FATHER: MID00-G49-978-82
+  MOTHER: MID17-G49-878-40
+
+MARRIAGES:
+  - PARTNER: MID97-G50-066-62
+    DATE: 2030-06-19
+    PLACE: Queens Hotel, Kandy
+    FATE: ONGOING
+    CHILDREN: NONE

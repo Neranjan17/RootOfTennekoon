@@ -1,0 +1,46 @@
+ID: MID34-G50-601-46
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Hiruni Senanayake
+FULL_NAME: Hiruni Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: H. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Senanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1987-10-28
+  PLACE: Nuwara Eliya
+  NOTES: Born in Nuwara Eliya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Nuwara Eliya, Sri Lanka
+    FORM_DATE: 1987
+    TO_DATE: 2007
+    NOTES: Childhood and education.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 2007
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2013
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

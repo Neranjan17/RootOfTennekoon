@@ -1,0 +1,72 @@
+ID: MID53-G52-428-33
+PROFILE_PICTURE: /Image/Contemporary/Pavithra_Amarasinghe_Profile.jpg
+SHORT_NAME: Pavithra Amarasinghe
+FULL_NAME: Pavithra Amarasinghe
+
+ALTERNATE_NAMES:
+  - NAME: P. Amarasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Pavithra Amarasinghe A.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Amarasinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Pavithra Amarasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1996-07-17
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: 2016
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2021
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID53-G52-428-33.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID53-G52-428-33.PDF
+
+PARENTS:
+  FATHER: MID68-G51-179-31
+  MOTHER: MID03-G51-355-34
+
+MARRIAGES:
+  - PARTNER: MID55-G52-130-72
+    DATE: 2024-07-18
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID09-G53-806-08
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID17-G53-792-28
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

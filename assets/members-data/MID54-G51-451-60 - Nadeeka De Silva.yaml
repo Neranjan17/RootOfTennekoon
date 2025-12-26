@@ -1,0 +1,75 @@
+ID: MID54-G51-451-60
+PROFILE_PICTURE: /Image/Contemporary/Nadeeka_De_Silva_Profile.jpg
+SHORT_NAME: Nadeeka De Silva
+FULL_NAME: Nadeeka De Silva
+
+ALTERNATE_NAMES:
+  - NAME: N. De Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nadeeka De Silva D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: De Silva
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nadeeka De Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1999-07-21
+  PLACE: Puttalam
+  NOTES: Registered birth in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1999
+    TO_DATE: 2019
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 2019
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2022
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID54-G51-451-60.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID54-G51-451-60.PDF
+
+PARENTS:
+  FATHER: MID99-G50-081-32
+  MOTHER: MID20-G50-921-78
+
+MARRIAGES:
+  - PARTNER: MID86-G51-897-10
+    DATE: 2025-10-01
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID39-G52-770-44
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID76-G52-386-61
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID60-G52-677-79
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

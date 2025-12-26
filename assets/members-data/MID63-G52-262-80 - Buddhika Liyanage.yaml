@@ -1,0 +1,61 @@
+ID: MID63-G52-262-80
+PROFILE_PICTURE: /Image/Contemporary/Buddhika_Liyanage_Profile.jpg
+SHORT_NAME: Buddhika Liyanage
+FULL_NAME: Buddhika Liyanage
+
+ALTERNATE_NAMES:
+  - NAME: B. Liyanage
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Buddhika Liyanage L.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Liyanage
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Buddhika Liyanage is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1980-10-28
+  PLACE: Kurunegala
+  NOTES: Registered birth in Kurunegala, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 1980
+    TO_DATE: 2000
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2004
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID63-G52-262-80.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID63-G52-262-80.PDF
+
+PARENTS:
+  FATHER: MID51-G51-534-07
+  MOTHER: MID94-G51-179-02
+
+MARRIAGES: UNMARRIED

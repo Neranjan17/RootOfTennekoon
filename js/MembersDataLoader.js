@@ -1,87 +1,85 @@
 class MembersDataLoader {
 
+  static TOTAL_VALID_FILES_COUNT = 0;
+  static GENERATION_COUNT = 0;
+  static APPROX_YEAR_DESCRIBED_COUNT = 0;
+
   static MEMBERS_DATA_FILE_PATH = "./assets/members-data/";
   static MEMBERS_DATA_LIST = [];
 
   static async getInstance() {
     const loader = new MembersDataLoader();
     await loader.intLoadMemberData();
-
-    const membersCount = MembersDataLoader.MEMBERS_DATA_LIST.length;
-
-    for (let index = 0; index < membersCount; index++) {
-
-      console.log("-------------------------------");
-      console.log(`[${index + 1}/${membersCount}]`);
-      console.log(`Member ID : ${loader.getMemberIDByIndex(index)}`);
-      console.log("birth Info");
-      const birthInfo = loader.getMemberBirthInfoByIndex(index);
-      
-      if (birthInfo === null) {
-        console.log("\tNo birth information available.");
-        continue;
-      } else {
-        console.log(`\tbirth year : ${loader.getMemberBirthInfoByIndex(index).DATE}`);
-        console.log(`\tbirth place : ${loader.getMemberBirthInfoByIndex(index).PLACE}`);
-        console.log(`\tbirth note : ${loader.getMemberBirthInfoByIndex(index).NOTES}`);
-      }
-      console.log("---------------------------------------");
-
-
-    }
-
+    loader.getAllMembersCount();
+    loader.getTotalGenerationsCount();
+    loader.getYearsCount();
     return loader;
   }
 
   getAllMembersCount() {
-    const memberCount = MembersDataLoader.MEMBERS_DATA_LIST.length;
-    console.log("Calculated members count: ", memberCount);
-    return memberCount;
+
+    if (MembersDataLoader.TOTAL_VALID_FILES_COUNT === 0) {
+      MembersDataLoader.TOTAL_VALID_FILES_COUNT = MembersDataLoader.MEMBERS_DATA_LIST.length;
+      console.log("Calculated members count: ", MembersDataLoader.TOTAL_VALID_FILES_COUNT);
+    }
+
+    return MembersDataLoader.TOTAL_VALID_FILES_COUNT;
   }
 
   getTotalGenerationsCount() {
 
-    let genIdList = [];
+    if (MembersDataLoader.GENERATION_COUNT === 0) {
 
-    for (let index = 0; index < MembersDataLoader.MEMBERS_DATA_LIST.length; index++) {
+      let genIdList = [];
+      for (let index = 0; index < MembersDataLoader.TOTAL_VALID_FILES_COUNT; index++) {
 
-      const memberID = this.getMemberIDByIndex(index);
+        const memberID = this.getMemberIDByIndex(index);
 
-      if (memberID === null) {
-        continue;
+        if (memberID === null) {
+          continue;
+        }
+
+        const genId = memberID.substring(7, 9);
+        if (!genIdList.includes(genId)) {
+          genIdList.push(genId);
+        }
       }
 
-      const genId = memberID.substring(7, 9);
-
-      if (!genIdList.includes(genId)) {
-        genIdList.push(genId);
-      }
-
+      MembersDataLoader.GENERATION_COUNT = genIdList.length;
+      console.log("Calculated Generations count: ", MembersDataLoader.GENERATION_COUNT);
     }
 
-    console.log("Calculated Generations count: ", genIdList.length);
-    return genIdList.length;
+    return MembersDataLoader.GENERATION_COUNT;
   }
 
   getYearsCount() {
 
-    let oldestYear = new Date().getFullYear();
+    if (MembersDataLoader.APPROX_YEAR_DESCRIBED_COUNT === 0) {
+      let oldestYear = new Date().getFullYear();
 
-    for (let index = 0; index < MembersDataLoader.MEMBERS_DATA_LIST.length; index++) {
+      for (let index = 0; index < MembersDataLoader.TOTAL_VALID_FILES_COUNT; index++) {
 
-      const birthYear = parseInt(this.getMemberBirthInfoByIndex(index).DATE.split("-")[0]);
+        const birthInfo = this.getMemberBirthInfoByIndex(index);
 
-      if (birthYear < oldestYear) {
-        oldestYear = birthYear;
+        if (birthInfo === null) {
+          continue;
+        }
+        const birthYear = parseInt(birthInfo.DATE.split("-")[0]);
+
+        if (birthYear < oldestYear) {
+          oldestYear = birthYear;
+        }
       }
+
+      const currentYear = new Date().getFullYear();
+      MembersDataLoader.APPROX_YEAR_DESCRIBED_COUNT = currentYear - oldestYear;
+      console.log("Calculated described years count: ", MembersDataLoader.APPROX_YEAR_DESCRIBED_COUNT);
     }
 
-    const currentYear = new Date().getFullYear();
-    const yearCount = currentYear - oldestYear;
-
-    console.log("Calculated years count: ", yearCount);
-    return yearCount;
+    return MembersDataLoader.APPROX_YEAR_DESCRIBED_COUNT;
   }
+
+
 
   getMemberDeathInfoByIndex(index) {
 
@@ -146,9 +144,9 @@ class MembersDataLoader {
       return null;
     }
 
-    const date = memberBirthInfo.DATE;
-    const place = memberBirthInfo.PLACE;
-    const notes = memberBirthInfo.NOTES;
+    let date = memberBirthInfo.DATE;
+    let place = memberBirthInfo.PLACE;
+    let notes = memberBirthInfo.NOTES;
 
     if (date === undefined || date === null) {
       date = "UNKNOWN";
@@ -172,6 +170,9 @@ class MembersDataLoader {
   }
 
   getMemberIDByIndex(index) {
+
+    // RETURN : "MID##-G##-###-##" or null
+
     const memberID = MembersDataLoader.MEMBERS_DATA_LIST[index].ID;
 
     if (memberID === undefined) {
@@ -196,6 +197,8 @@ class MembersDataLoader {
 
     return memberID;
   }
+
+
 
   isValidDateTimeFormat(dateTimeStr) {
 

@@ -1,0 +1,61 @@
+ID: MID69-G52-435-98
+PROFILE_PICTURE: /Image/Contemporary/Sunil_Liyanage_Profile.jpg
+SHORT_NAME: Sunil Liyanage
+FULL_NAME: Sunil Liyanage
+
+ALTERNATE_NAMES:
+  - NAME: S. Liyanage
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sunil Liyanage L.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Liyanage
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sunil Liyanage is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1960-07-11
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1960
+    TO_DATE: 1980
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 1980
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Harbor Logistics
+    FORM_DATE: 1984
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID69-G52-435-98.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID69-G52-435-98.PDF
+
+PARENTS:
+  FATHER: MID45-G51-708-80
+  MOTHER: MID81-G51-980-62
+
+MARRIAGES: UNMARRIED

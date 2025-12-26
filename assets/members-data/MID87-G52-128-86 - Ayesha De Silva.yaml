@@ -1,0 +1,61 @@
+ID: MID87-G52-128-86
+PROFILE_PICTURE: /Image/Contemporary/Ayesha_De_Silva_Profile.jpg
+SHORT_NAME: Ayesha De Silva
+FULL_NAME: Ayesha De Silva
+
+ALTERNATE_NAMES:
+  - NAME: A. De Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ayesha De Silva D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: De Silva
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Ayesha De Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1969-10-15
+  PLACE: Kandy
+  NOTES: Registered birth in Kandy, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1969
+    TO_DATE: 1989
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1989
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID87-G52-128-86.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID87-G52-128-86.PDF
+
+PARENTS:
+  FATHER: MID41-G51-655-39
+  MOTHER: MID35-G51-935-49
+
+MARRIAGES: UNMARRIED

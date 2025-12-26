@@ -1,0 +1,46 @@
+ID: MID33-G51-077-13
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Upeksha Dissanayake
+FULL_NAME: Upeksha Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: U. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Dissanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1953-09-25
+  PLACE: Ratnapura
+  NOTES: Born in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1953
+    TO_DATE: 1973
+    NOTES: Childhood and education.
+    
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1973
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 1983
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

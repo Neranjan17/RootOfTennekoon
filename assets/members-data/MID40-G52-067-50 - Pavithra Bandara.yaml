@@ -1,0 +1,46 @@
+ID: MID40-G52-067-50
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Pavithra Bandara
+FULL_NAME: Pavithra Bandara
+
+ALTERNATE_NAMES:
+  - NAME: P. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Bandara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 2003-04-27
+  PLACE: Ampara
+  NOTES: Born in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 2003
+    TO_DATE: 2023
+    NOTES: Childhood and education.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 2023
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2025
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

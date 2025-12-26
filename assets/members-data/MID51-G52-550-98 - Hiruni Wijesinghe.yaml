@@ -1,0 +1,72 @@
+ID: MID51-G52-550-98
+PROFILE_PICTURE: /Image/Contemporary/Hiruni_Wijesinghe_Profile.jpg
+SHORT_NAME: Hiruni Wijesinghe
+FULL_NAME: Hiruni Wijesinghe
+
+ALTERNATE_NAMES:
+  - NAME: H. Wijesinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Hiruni Wijesinghe W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wijesinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Hiruni Wijesinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1966-11-24
+  PLACE: Hambantota
+  NOTES: Registered birth in Hambantota, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1966
+    TO_DATE: 1986
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1986
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Business Development Manager
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 1997
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID51-G52-550-98.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID51-G52-550-98.PDF
+
+PARENTS:
+  FATHER: MID28-G51-960-59
+  MOTHER: MID38-G51-512-25
+
+MARRIAGES:
+  - PARTNER: MID60-G52-496-63
+    DATE: 1997-02-21
+    PLACE: Taj Samudra, Colombo
+    FATE: SEPARATED
+    CHILDREN:
+      - CHILD: MID44-G53-524-83
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID26-G53-418-82
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

@@ -1,0 +1,72 @@
+ID: MID34-G50-147-57
+PROFILE_PICTURE: /Image/Contemporary/Kumari_Karunaratne_Profile.jpg
+SHORT_NAME: Kumari Karunaratne
+FULL_NAME: Kumari Karunaratne
+
+ALTERNATE_NAMES:
+  - NAME: K. Karunaratne
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Kumari Karunaratne K.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Karunaratne
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Kumari Karunaratne is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1974-09-25
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1974
+    TO_DATE: 1994
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1994
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Project Manager
+    INSTITUTION: Island Innovations
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID34-G50-147-57.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID34-G50-147-57.PDF
+
+PARENTS:
+  FATHER: MID65-G49-752-07
+  MOTHER: MID11-G49-822-83
+
+MARRIAGES:
+  - PARTNER: MID91-G50-547-51
+    DATE: 2000-05-23
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID47-G51-519-48
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID17-G51-511-86
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

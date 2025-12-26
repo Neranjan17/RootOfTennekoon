@@ -1,0 +1,69 @@
+ID: MID15-G52-749-37
+PROFILE_PICTURE: /Image/Contemporary/Buddhika_Liyanage_Profile.jpg
+SHORT_NAME: Buddhika Liyanage
+FULL_NAME: Buddhika Liyanage
+
+ALTERNATE_NAMES:
+  - NAME: B. Liyanage
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Buddhika Liyanage L.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Liyanage
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Buddhika Liyanage is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1967-05-21
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1967
+    TO_DATE: 1987
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1987
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1991
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID15-G52-749-37.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID15-G52-749-37.PDF
+
+PARENTS:
+  FATHER: MID12-G51-917-24
+  MOTHER: MID88-G51-325-45
+
+MARRIAGES:
+  - PARTNER: MID75-G52-791-73
+    DATE: 1995-11-11
+    PLACE: Hindu Temple, Jaffna
+    FATE: SEPARATED
+    CHILDREN:
+      - CHILD: MID87-G53-808-63
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

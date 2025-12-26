@@ -1,0 +1,75 @@
+ID: MID60-G50-189-15
+PROFILE_PICTURE: /Image/Contemporary/Ayesha_Dissanayake_Profile.jpg
+SHORT_NAME: Ayesha Dissanayake
+FULL_NAME: Ayesha Dissanayake
+
+ALTERNATE_NAMES:
+  - NAME: A. Dissanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ayesha Dissanayake D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Dissanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Ayesha Dissanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1975-08-15
+  PLACE: Vavuniya
+  NOTES: Registered birth in Vavuniya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1975
+    TO_DATE: 1995
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Financial Officer
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 2003
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID60-G50-189-15.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID60-G50-189-15.PDF
+
+PARENTS:
+  FATHER: MID57-G49-929-92
+  MOTHER: MID53-G49-417-24
+
+MARRIAGES:
+  - PARTNER: MID23-G50-567-71
+    DATE: 2006-09-28
+    PLACE: St. Mary's Church, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID30-G51-402-94
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID80-G51-177-27
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID83-G51-293-58
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

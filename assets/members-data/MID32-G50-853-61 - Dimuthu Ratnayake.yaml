@@ -1,0 +1,46 @@
+ID: MID32-G50-853-61
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Dimuthu Ratnayake
+FULL_NAME: Dimuthu Ratnayake
+
+ALTERNATE_NAMES:
+  - NAME: D. Ratnayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Ratnayake
+GENDER: MALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1970-05-10
+  PLACE: Anuradhapura
+  NOTES: Born in Anuradhapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: 1990
+    NOTES: Childhood and education.
+    
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 1994
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

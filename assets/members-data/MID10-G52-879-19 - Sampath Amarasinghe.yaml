@@ -1,0 +1,21 @@
+ID: MID10-G52-879-19
+SHORT_NAME: Sampath Amarasinghe
+FULL_NAME: Sampath Amarasinghe
+FAMILY_NAME: Amarasinghe
+GENDER: MALE
+
+BIRTH:
+  DATE: 1975-02-14
+  PLACE: Ampara
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1975
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

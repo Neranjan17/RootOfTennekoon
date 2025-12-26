@@ -1,0 +1,61 @@
+ID: MID57-G51-320-21
+PROFILE_PICTURE: /Image/Contemporary/Nuwan_De_Silva_Profile.jpg
+SHORT_NAME: Nuwan De Silva
+FULL_NAME: Nuwan De Silva
+
+ALTERNATE_NAMES:
+  - NAME: N. De Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nuwan De Silva D.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: De Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Nuwan De Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1998-01-25
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1998
+    TO_DATE: 2018
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 2018
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Lanka Digital Services
+    FORM_DATE: 2028
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID57-G51-320-21.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID57-G51-320-21.PDF
+
+PARENTS:
+  FATHER: MID70-G50-257-22
+  MOTHER: MID73-G50-775-67
+
+MARRIAGES: UNMARRIED

@@ -1,0 +1,75 @@
+ID: MID91-G51-750-94
+PROFILE_PICTURE: /Image/Contemporary/Madhavi_Senarath_Profile.jpg
+SHORT_NAME: Madhavi Senarath
+FULL_NAME: Madhavi Senarath
+
+ALTERNATE_NAMES:
+  - NAME: M. Senarath
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Madhavi Senarath S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senarath
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Madhavi Senarath is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1962-01-12
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1962
+    TO_DATE: 1982
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1982
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID91-G51-750-94.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID91-G51-750-94.PDF
+
+PARENTS:
+  FATHER: MID19-G50-259-06
+  MOTHER: MID28-G50-021-23
+
+MARRIAGES:
+  - PARTNER: MID83-G51-117-46
+    DATE: 1994-05-06
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID13-G52-294-95
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID13-G52-625-40
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID86-G52-476-71
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

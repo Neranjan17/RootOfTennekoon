@@ -1,0 +1,61 @@
+ID: MID34-G50-089-11
+PROFILE_PICTURE: /Image/Contemporary/Ajith_Rodrigo_Profile.jpg
+SHORT_NAME: Ajith Rodrigo
+FULL_NAME: Ajith Rodrigo
+
+ALTERNATE_NAMES:
+  - NAME: A. Rodrigo
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ajith Rodrigo R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rodrigo
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ajith Rodrigo is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1981-12-24
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1981
+    TO_DATE: 2001
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 2001
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 2012
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID34-G50-089-11.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID34-G50-089-11.PDF
+
+PARENTS:
+  FATHER: MID67-G49-972-34
+  MOTHER: MID89-G49-564-73
+
+MARRIAGES: UNMARRIED

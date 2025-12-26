@@ -1,0 +1,78 @@
+ID: MID22-G51-399-44
+PROFILE_PICTURE: /Image/Contemporary/Upeksha_Senanayake_Profile.jpg
+SHORT_NAME: Upeksha Senanayake
+FULL_NAME: Upeksha Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: U. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Upeksha Senanayake S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Upeksha Senanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1977-10-09
+  PLACE: Galle
+  NOTES: Registered birth in Galle, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1977
+    TO_DATE: 1997
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Business Development Manager
+    INSTITUTION: Tech Solutions Lanka
+    FORM_DATE: 2008
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID22-G51-399-44.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID22-G51-399-44.PDF
+
+PARENTS:
+  FATHER: MID87-G50-763-78
+  MOTHER: MID04-G50-255-93
+
+MARRIAGES:
+  - PARTNER: MID16-G51-177-04
+    DATE: 2010-07-16
+    PLACE: Kandy Hotel
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID82-G52-000-73
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID64-G52-846-90
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID78-G52-186-30
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID79-G52-644-15
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

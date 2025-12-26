@@ -1,0 +1,75 @@
+ID: MID20-G51-555-76
+PROFILE_PICTURE: /Image/Contemporary/Rashmi_Jayawardena_Profile.jpg
+SHORT_NAME: Rashmi Jayawardena
+FULL_NAME: Rashmi Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: R. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Rashmi Jayawardena J.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Jayawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Rashmi Jayawardena is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1970-09-12
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: 1990
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Galle, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Ceylon Manufacturing Co
+    FORM_DATE: 1998
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID20-G51-555-76.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID20-G51-555-76.PDF
+
+PARENTS:
+  FATHER: MID16-G50-739-01
+  MOTHER: MID74-G50-151-27
+
+MARRIAGES:
+  - PARTNER: MID71-G51-059-77
+    DATE: 2005-03-20
+    PLACE: Sacred Heart Church, Galle
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID63-G52-180-48
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID77-G52-501-70
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID52-G52-238-92
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

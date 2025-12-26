@@ -1,0 +1,46 @@
+ID: MID29-G52-048-36
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Malsha Karunaratne
+FULL_NAME: Malsha Karunaratne
+
+ALTERNATE_NAMES:
+  - NAME: M. Karunaratne
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Karunaratne
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1979-12-07
+  PLACE: Colombo
+  NOTES: Born in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1979
+    TO_DATE: 1999
+    NOTES: Childhood and education.
+    
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 1999
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 2004
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

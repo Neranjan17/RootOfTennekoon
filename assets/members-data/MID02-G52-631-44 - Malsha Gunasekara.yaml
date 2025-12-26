@@ -1,0 +1,46 @@
+ID: MID02-G52-631-44
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Malsha Gunasekara
+FULL_NAME: Malsha Gunasekara
+
+ALTERNATE_NAMES:
+  - NAME: M. Gunasekara
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Gunasekara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 2004-11-01
+  PLACE: Kalutara
+  NOTES: Born in Kalutara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 2004
+    TO_DATE: 2024
+    NOTES: Childhood and education.
+    
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2024
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2035
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

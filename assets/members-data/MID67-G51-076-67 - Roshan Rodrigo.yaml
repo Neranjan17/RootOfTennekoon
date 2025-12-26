@@ -1,0 +1,66 @@
+ID: MID67-G51-076-67
+PROFILE_PICTURE: /Image/Contemporary/Roshan_Rodrigo_Profile.jpg
+SHORT_NAME: Roshan Rodrigo
+FULL_NAME: Roshan Rodrigo
+
+ALTERNATE_NAMES:
+  - NAME: R. Rodrigo
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Roshan Rodrigo R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rodrigo
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Roshan Rodrigo is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1989-04-11
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1989
+    TO_DATE: 2009
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2009
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Lanka Digital Services
+    FORM_DATE: 2012
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID67-G51-076-67.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID67-G51-076-67.PDF
+
+PARENTS:
+  FATHER: MID57-G50-616-27
+  MOTHER: MID52-G50-274-06
+
+MARRIAGES:
+  - PARTNER: MID19-G51-767-26
+    DATE: 2013-04-24
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN: NONE

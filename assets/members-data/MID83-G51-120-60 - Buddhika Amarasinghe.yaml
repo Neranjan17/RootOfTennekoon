@@ -1,0 +1,61 @@
+ID: MID83-G51-120-60
+PROFILE_PICTURE: /Image/Contemporary/Buddhika_Amarasinghe_Profile.jpg
+SHORT_NAME: Buddhika Amarasinghe
+FULL_NAME: Buddhika Amarasinghe
+
+ALTERNATE_NAMES:
+  - NAME: B. Amarasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Buddhika Amarasinghe A.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Amarasinghe
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Buddhika Amarasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1997-10-28
+  PLACE: Batticaloa
+  NOTES: Registered birth in Batticaloa, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: 2017
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2017
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2028
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID83-G51-120-60.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID83-G51-120-60.PDF
+
+PARENTS:
+  FATHER: MID42-G50-897-09
+  MOTHER: MID98-G50-373-17
+
+MARRIAGES: UNMARRIED

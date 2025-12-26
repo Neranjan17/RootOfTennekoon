@@ -1,0 +1,78 @@
+ID: MID84-G52-740-71
+PROFILE_PICTURE: /Image/Contemporary/Sachini_Rajapaksa_Profile.jpg
+SHORT_NAME: Sachini Rajapaksa
+FULL_NAME: Sachini Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: S. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sachini Rajapaksa R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sachini Rajapaksa is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1981-02-16
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1981
+    TO_DATE: 2001
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 2001
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Zenith Corporation
+    FORM_DATE: 2007
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID84-G52-740-71.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID84-G52-740-71.PDF
+
+PARENTS:
+  FATHER: MID08-G51-386-75
+  MOTHER: MID78-G51-569-05
+
+MARRIAGES:
+  - PARTNER: MID13-G52-157-56
+    DATE: 2013-09-02
+    PLACE: Cinnamon Grand, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID37-G53-048-92
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID45-G53-856-10
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID03-G53-488-28
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID09-G53-789-87
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

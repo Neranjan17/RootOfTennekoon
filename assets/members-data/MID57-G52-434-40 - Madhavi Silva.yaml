@@ -1,0 +1,72 @@
+ID: MID57-G52-434-40
+PROFILE_PICTURE: /Image/Contemporary/Madhavi_Silva_Profile.jpg
+SHORT_NAME: Madhavi Silva
+FULL_NAME: Madhavi Silva
+
+ALTERNATE_NAMES:
+  - NAME: M. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Madhavi Silva S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Madhavi Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1966-06-18
+  PLACE: Badulla
+  NOTES: Registered birth in Badulla, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1966
+    TO_DATE: 1986
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Chilaw, Sri Lanka
+    FORM_DATE: 1986
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: General Manager
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 1994
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID57-G52-434-40.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID57-G52-434-40.PDF
+
+PARENTS:
+  FATHER: MID95-G51-903-21
+  MOTHER: MID87-G51-940-45
+
+MARRIAGES:
+  - PARTNER: MID05-G52-734-09
+    DATE: 1996-10-05
+    PLACE: Queens Hotel, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID09-G53-024-65
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID18-G53-604-13
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

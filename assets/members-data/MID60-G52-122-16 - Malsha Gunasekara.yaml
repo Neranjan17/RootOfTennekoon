@@ -1,0 +1,69 @@
+ID: MID60-G52-122-16
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Gunasekara_Profile.jpg
+SHORT_NAME: Malsha Gunasekara
+FULL_NAME: Malsha Gunasekara
+
+ALTERNATE_NAMES:
+  - NAME: M. Gunasekara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha Gunasekara G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunasekara
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Gunasekara is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1976-03-12
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: 1996
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID60-G52-122-16.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID60-G52-122-16.PDF
+
+PARENTS:
+  FATHER: MID45-G51-407-40
+  MOTHER: MID75-G51-179-69
+
+MARRIAGES:
+  - PARTNER: MID83-G52-153-81
+    DATE: 2006-08-26
+    PLACE: Queens Hotel, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID44-G53-280-24
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

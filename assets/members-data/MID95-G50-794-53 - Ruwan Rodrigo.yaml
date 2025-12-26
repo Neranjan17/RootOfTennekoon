@@ -1,0 +1,61 @@
+ID: MID95-G50-794-53
+PROFILE_PICTURE: /Image/Contemporary/Ruwan_Rodrigo_Profile.jpg
+SHORT_NAME: Ruwan Rodrigo
+FULL_NAME: Ruwan Rodrigo
+
+ALTERNATE_NAMES:
+  - NAME: R. Rodrigo
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ruwan Rodrigo R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rodrigo
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ruwan Rodrigo is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1990-02-13
+  PLACE: Jaffna
+  NOTES: Registered birth in Jaffna, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: 2010
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2010
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2013
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID95-G50-794-53.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID95-G50-794-53.PDF
+
+PARENTS:
+  FATHER: MID85-G49-777-72
+  MOTHER: MID18-G49-783-27
+
+MARRIAGES: UNMARRIED

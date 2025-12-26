@@ -1,0 +1,21 @@
+ID: MID04-G50-097-53
+SHORT_NAME: Shani Wickramasinghe
+FULL_NAME: Shani Wickramasinghe
+FAMILY_NAME: Wickramasinghe
+GENDER: FEMALE
+
+BIRTH:
+  DATE: 1950-05-08
+  PLACE: Ratnapura
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1950
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

@@ -1,0 +1,21 @@
+ID: MID17-G50-235-93
+SHORT_NAME: Shani Wickramasinghe
+FULL_NAME: Shani Wickramasinghe
+FAMILY_NAME: Wickramasinghe
+GENDER: FEMALE
+
+BIRTH:
+  DATE: 1997-05-06
+  PLACE: Negombo
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

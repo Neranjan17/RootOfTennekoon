@@ -1,0 +1,75 @@
+ID: MID87-G51-971-76
+PROFILE_PICTURE: /Image/Contemporary/Nimal_Perera_Profile.jpg
+SHORT_NAME: Nimal Perera
+FULL_NAME: Nimal Perera
+
+ALTERNATE_NAMES:
+  - NAME: N. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nimal Perera P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Nimal Perera is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1971-04-07
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1971
+    TO_DATE: 1991
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Batticaloa, Sri Lanka
+    FORM_DATE: 1991
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Financial Officer
+    INSTITUTION: Zenith Corporation
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID87-G51-971-76.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID87-G51-971-76.PDF
+
+PARENTS:
+  FATHER: MID91-G50-698-76
+  MOTHER: MID44-G50-776-57
+
+MARRIAGES:
+  - PARTNER: MID09-G51-247-09
+    DATE: 2006-08-17
+    PLACE: Sacred Heart Church, Galle
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID65-G52-937-03
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID25-G52-115-33
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID49-G52-607-00
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

@@ -1,0 +1,21 @@
+ID: MID11-G51-002-95
+SHORT_NAME: Madhavi Dissanayake
+FULL_NAME: Madhavi Dissanayake
+FAMILY_NAME: Dissanayake
+GENDER: FEMALE
+
+BIRTH:
+  DATE: 1969-02-20
+  PLACE: Vavuniya
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1969
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

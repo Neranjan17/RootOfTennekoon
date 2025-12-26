@@ -1,0 +1,46 @@
+ID: MID11-G50-320-35
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Ruwani Fernando
+FULL_NAME: Ruwani Fernando
+
+ALTERNATE_NAMES:
+  - NAME: R. Fernando
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Fernando
+GENDER: FEMALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 1996-01-27
+  PLACE: Puttalam
+  NOTES: Born in Puttalam, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: 2016
+    NOTES: Childhood and education.
+    
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2022
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

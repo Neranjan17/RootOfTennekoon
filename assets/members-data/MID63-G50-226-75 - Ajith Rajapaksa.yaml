@@ -1,0 +1,78 @@
+ID: MID63-G50-226-75
+PROFILE_PICTURE: /Image/Contemporary/Ajith_Rajapaksa_Profile.jpg
+SHORT_NAME: Ajith Rajapaksa
+FULL_NAME: Ajith Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: A. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ajith Rajapaksa R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ajith Rajapaksa is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1987-01-10
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 1987
+    TO_DATE: 2007
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 2007
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Human Resources
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 2016
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID63-G50-226-75.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID63-G50-226-75.PDF
+
+PARENTS:
+  FATHER: MID76-G49-477-53
+  MOTHER: MID73-G49-878-43
+
+MARRIAGES:
+  - PARTNER: MID06-G50-923-87
+    DATE: 2015-11-09
+    PLACE: Kandy Hotel
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID22-G51-481-69
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID76-G51-543-00
+        ORDER: 2
+        PARENTAGE: ADOPTED
+      - CHILD: MID34-G51-697-91
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID66-G51-026-52
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

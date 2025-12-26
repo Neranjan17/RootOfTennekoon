@@ -1,0 +1,46 @@
+ID: MID28-G52-015-80
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Roshan Jayawardena
+FULL_NAME: Roshan Jayawardena
+
+ALTERNATE_NAMES:
+  - NAME: R. Jayawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Jayawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 2003-02-17
+  PLACE: Ampara
+  NOTES: Born in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 2003
+    TO_DATE: 2023
+    NOTES: Childhood and education.
+    
+  - PLACE: Kegalle, Sri Lanka
+    FORM_DATE: 2023
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2035
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN

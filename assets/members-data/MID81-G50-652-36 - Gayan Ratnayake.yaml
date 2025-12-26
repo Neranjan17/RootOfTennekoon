@@ -1,0 +1,66 @@
+ID: MID81-G50-652-36
+PROFILE_PICTURE: /Image/Contemporary/Gayan_Ratnayake_Profile.jpg
+SHORT_NAME: Gayan Ratnayake
+FULL_NAME: Gayan Ratnayake
+
+ALTERNATE_NAMES:
+  - NAME: G. Ratnayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Gayan Ratnayake R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Ratnayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Gayan Ratnayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1997-11-26
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: 2017
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 2017
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2027
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID81-G50-652-36.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID81-G50-652-36.PDF
+
+PARENTS:
+  FATHER: MID30-G49-130-39
+  MOTHER: MID50-G49-323-80
+
+MARRIAGES:
+  - PARTNER: MID63-G50-654-64
+    DATE: 2025-01-15
+    PLACE: Queens Hotel, Kandy
+    FATE: ONGOING
+    CHILDREN: NONE

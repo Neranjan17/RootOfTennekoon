@@ -1,0 +1,72 @@
+ID: MID31-G50-784-96
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Rajapaksa_Profile.jpg
+SHORT_NAME: Malsha Rajapaksa
+FULL_NAME: Malsha Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: M. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha Rajapaksa R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rajapaksa
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Rajapaksa is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1995-07-03
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: 2015
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 2015
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2018
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID31-G50-784-96.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID31-G50-784-96.PDF
+
+PARENTS:
+  FATHER: MID84-G49-480-27
+  MOTHER: MID56-G49-285-84
+
+MARRIAGES:
+  - PARTNER: MID57-G50-521-91
+    DATE: 2029-06-26
+    PLACE: Cinnamon Grand, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID78-G51-929-91
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID47-G51-036-59
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

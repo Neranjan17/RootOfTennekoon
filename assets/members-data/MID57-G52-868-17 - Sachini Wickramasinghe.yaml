@@ -1,0 +1,61 @@
+ID: MID57-G52-868-17
+PROFILE_PICTURE: /Image/Contemporary/Sachini_Wickramasinghe_Profile.jpg
+SHORT_NAME: Sachini Wickramasinghe
+FULL_NAME: Sachini Wickramasinghe
+
+ALTERNATE_NAMES:
+  - NAME: S. Wickramasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sachini Wickramasinghe W.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Wickramasinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Sachini Wickramasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1963-10-18
+  PLACE: Trincomalee
+  NOTES: Registered birth in Trincomalee, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1963
+    TO_DATE: 1983
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1983
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Island Innovations
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID57-G52-868-17.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID57-G52-868-17.PDF
+
+PARENTS:
+  FATHER: MID04-G51-724-90
+  MOTHER: MID40-G51-139-18
+
+MARRIAGES: UNMARRIED

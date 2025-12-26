@@ -1,0 +1,21 @@
+ID: MID00-G52-594-71
+SHORT_NAME: Tharindu Wickramasinghe
+FULL_NAME: Tharindu Wickramasinghe
+FAMILY_NAME: Wickramasinghe
+GENDER: MALE
+
+BIRTH:
+  DATE: 2001-10-08
+  PLACE: Negombo
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2001
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

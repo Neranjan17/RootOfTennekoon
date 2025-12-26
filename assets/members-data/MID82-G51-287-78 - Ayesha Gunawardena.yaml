@@ -1,0 +1,66 @@
+ID: MID82-G51-287-78
+PROFILE_PICTURE: /Image/Contemporary/Ayesha_Gunawardena_Profile.jpg
+SHORT_NAME: Ayesha Gunawardena
+FULL_NAME: Ayesha Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: A. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ayesha Gunawardena G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Ayesha Gunawardena is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1952-03-09
+  PLACE: Vavuniya
+  NOTES: Registered birth in Vavuniya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Vavuniya, Sri Lanka
+    FORM_DATE: 1952
+    TO_DATE: 1972
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1972
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Consultant
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 1982
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID82-G51-287-78.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID82-G51-287-78.PDF
+
+PARENTS:
+  FATHER: MID10-G50-043-44
+  MOTHER: MID31-G50-080-83
+
+MARRIAGES:
+  - PARTNER: MID24-G51-394-73
+    DATE: 1987-12-14
+    PLACE: Taj Samudra, Colombo
+    FATE: ONGOING
+    CHILDREN: NONE

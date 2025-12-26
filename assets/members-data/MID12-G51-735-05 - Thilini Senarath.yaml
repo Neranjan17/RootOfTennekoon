@@ -1,0 +1,72 @@
+ID: MID12-G51-735-05
+PROFILE_PICTURE: /Image/Contemporary/Thilini_Senarath_Profile.jpg
+SHORT_NAME: Thilini Senarath
+FULL_NAME: Thilini Senarath
+
+ALTERNATE_NAMES:
+  - NAME: T. Senarath
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Thilini Senarath S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senarath
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Thilini Senarath is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1951-07-26
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1951
+    TO_DATE: 1971
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1971
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1975
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID12-G51-735-05.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID12-G51-735-05.PDF
+
+PARENTS:
+  FATHER: MID41-G50-522-62
+  MOTHER: MID16-G50-869-25
+
+MARRIAGES:
+  - PARTNER: MID66-G51-658-83
+    DATE: 1976-12-03
+    PLACE: Hilton Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID93-G52-176-87
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID32-G52-176-47
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

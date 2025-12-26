@@ -1,0 +1,75 @@
+ID: MID79-G51-644-15
+PROFILE_PICTURE: /Image/Contemporary/Buddhika_Gunawardena_Profile.jpg
+SHORT_NAME: Buddhika Gunawardena
+FULL_NAME: Buddhika Gunawardena
+
+ALTERNATE_NAMES:
+  - NAME: B. Gunawardena
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Buddhika Gunawardena G.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Gunawardena
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Buddhika Gunawardena is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1997-10-04
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1997
+    TO_DATE: 2017
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Anuradhapura, Sri Lanka
+    FORM_DATE: 2017
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Operations Manager
+    INSTITUTION: Metro Consultancy
+    FORM_DATE: 2028
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID79-G51-644-15.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID79-G51-644-15.PDF
+
+PARENTS:
+  FATHER: MID18-G50-949-43
+  MOTHER: MID01-G50-836-93
+
+MARRIAGES:
+  - PARTNER: MID67-G51-082-12
+    DATE: 2032-02-22
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID35-G52-300-68
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID38-G52-759-92
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID79-G52-966-34
+        ORDER: 3
+        PARENTAGE: ADOPTED

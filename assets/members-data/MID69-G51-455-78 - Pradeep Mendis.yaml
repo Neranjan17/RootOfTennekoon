@@ -1,0 +1,72 @@
+ID: MID69-G51-455-78
+PROFILE_PICTURE: /Image/Contemporary/Pradeep_Mendis_Profile.jpg
+SHORT_NAME: Pradeep Mendis
+FULL_NAME: Pradeep Mendis
+
+ALTERNATE_NAMES:
+  - NAME: P. Mendis
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Pradeep Mendis M.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Mendis
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Pradeep Mendis is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1975-01-15
+  PLACE: Kurunegala
+  NOTES: Registered birth in Kurunegala, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 1975
+    TO_DATE: 1995
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Trincomalee, Sri Lanka
+    FORM_DATE: 1995
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Managing Director
+    INSTITUTION: Island Innovations
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID69-G51-455-78.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID69-G51-455-78.PDF
+
+PARENTS:
+  FATHER: MID39-G50-542-52
+  MOTHER: MID39-G50-219-91
+
+MARRIAGES:
+  - PARTNER: MID66-G51-379-16
+    DATE: 2005-02-19
+    PLACE: Mount Lavinia Hotel
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID16-G52-275-21
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID26-G52-514-23
+        ORDER: 2
+        PARENTAGE: ADOPTED

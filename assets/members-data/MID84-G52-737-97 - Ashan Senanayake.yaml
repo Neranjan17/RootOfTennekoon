@@ -1,0 +1,61 @@
+ID: MID84-G52-737-97
+PROFILE_PICTURE: /Image/Contemporary/Ashan_Senanayake_Profile.jpg
+SHORT_NAME: Ashan Senanayake
+FULL_NAME: Ashan Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: A. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ashan Senanayake S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senanayake
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ashan Senanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 2000-05-03
+  PLACE: Negombo
+  NOTES: Registered birth in Negombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Negombo, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: 2020
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 2020
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: IT Manager
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2026
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID84-G52-737-97.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID84-G52-737-97.PDF
+
+PARENTS:
+  FATHER: MID99-G51-908-33
+  MOTHER: MID45-G51-828-70
+
+MARRIAGES: UNMARRIED

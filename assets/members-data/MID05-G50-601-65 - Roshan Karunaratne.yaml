@@ -1,0 +1,21 @@
+ID: MID05-G50-601-65
+SHORT_NAME: Roshan Karunaratne
+FULL_NAME: Roshan Karunaratne
+FAMILY_NAME: Karunaratne
+GENDER: MALE
+
+BIRTH:
+  DATE: 1973-11-18
+  PLACE: Colombo
+  NOTES: UNKNOWN
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1973
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN

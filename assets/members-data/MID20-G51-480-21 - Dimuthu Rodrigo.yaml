@@ -1,0 +1,61 @@
+ID: MID20-G51-480-21
+PROFILE_PICTURE: /Image/Contemporary/Dimuthu_Rodrigo_Profile.jpg
+SHORT_NAME: Dimuthu Rodrigo
+FULL_NAME: Dimuthu Rodrigo
+
+ALTERNATE_NAMES:
+  - NAME: D. Rodrigo
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dimuthu Rodrigo R.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Rodrigo
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Dimuthu Rodrigo is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1980-05-19
+  PLACE: Badulla
+  NOTES: Registered birth in Badulla, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1980
+    TO_DATE: 2000
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Vice President
+    INSTITUTION: Summit Trading Co.
+    FORM_DATE: 2011
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID20-G51-480-21.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID20-G51-480-21.PDF
+
+PARENTS:
+  FATHER: MID26-G50-876-08
+  MOTHER: MID69-G50-653-52
+
+MARRIAGES: UNMARRIED

@@ -1,0 +1,78 @@
+ID: MID35-G50-542-69
+PROFILE_PICTURE: /Image/Contemporary/Buddhika_Perera_Profile.jpg
+SHORT_NAME: Buddhika Perera
+FULL_NAME: Buddhika Perera
+
+ALTERNATE_NAMES:
+  - NAME: B. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Buddhika Perera P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Buddhika Perera is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1959-01-05
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1959
+    TO_DATE: 1979
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1979
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Financial Officer
+    INSTITUTION: Peak Performance Ltd
+    FORM_DATE: 1981
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID35-G50-542-69.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID35-G50-542-69.PDF
+
+PARENTS:
+  FATHER: MID43-G49-424-94
+  MOTHER: MID11-G49-978-54
+
+MARRIAGES:
+  - PARTNER: MID29-G50-230-27
+    DATE: 1993-12-25
+    PLACE: Registry Office, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID31-G51-541-45
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID59-G51-488-28
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID90-G51-186-37
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID58-G51-036-89
+        ORDER: 4
+        PARENTAGE: BIOLOGICAL

@@ -1,0 +1,61 @@
+ID: MID25-G52-307-79
+PROFILE_PICTURE: /Image/Contemporary/Sampath_Perera_Profile.jpg
+SHORT_NAME: Sampath Perera
+FULL_NAME: Sampath Perera
+
+ALTERNATE_NAMES:
+  - NAME: S. Perera
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Sampath Perera P.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Perera
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Sampath Perera is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1972-11-22
+  PLACE: Ampara
+  NOTES: Registered birth in Ampara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ampara, Sri Lanka
+    FORM_DATE: 1972
+    TO_DATE: 1992
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Puttalam, Sri Lanka
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Business Development Manager
+    INSTITUTION: Tropical Ventures
+    FORM_DATE: 2001
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID25-G52-307-79.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID25-G52-307-79.PDF
+
+PARENTS:
+  FATHER: MID71-G51-799-40
+  MOTHER: MID76-G51-455-64
+
+MARRIAGES: UNMARRIED

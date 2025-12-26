@@ -1,0 +1,69 @@
+ID: MID45-G51-502-39
+PROFILE_PICTURE: /Image/Contemporary/Malsha_Karunaratne_Profile.jpg
+SHORT_NAME: Malsha Karunaratne
+FULL_NAME: Malsha Karunaratne
+
+ALTERNATE_NAMES:
+  - NAME: M. Karunaratne
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Malsha Karunaratne K.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Karunaratne
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Malsha Karunaratne is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1970-11-13
+  PLACE: Jaffna
+  NOTES: Registered birth in Jaffna, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Jaffna, Sri Lanka
+    FORM_DATE: 1970
+    TO_DATE: 1990
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1990
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Head of Department
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID45-G51-502-39.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID45-G51-502-39.PDF
+
+PARENTS:
+  FATHER: MID31-G50-817-79
+  MOTHER: MID90-G50-925-68
+
+MARRIAGES:
+  - PARTNER: MID25-G51-606-72
+    DATE: 1999-07-02
+    PLACE: St. Mary's Church, Colombo
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID80-G52-217-47
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

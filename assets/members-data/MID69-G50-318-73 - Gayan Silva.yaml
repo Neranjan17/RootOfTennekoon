@@ -1,0 +1,72 @@
+ID: MID69-G50-318-73
+PROFILE_PICTURE: /Image/Contemporary/Gayan_Silva_Profile.jpg
+SHORT_NAME: Gayan Silva
+FULL_NAME: Gayan Silva
+
+ALTERNATE_NAMES:
+  - NAME: G. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Gayan Silva S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Gayan Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1976-08-08
+  PLACE: Matara
+  NOTES: Registered birth in Matara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: 1996
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Matara, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Project Manager
+    INSTITUTION: Green Valley Exports
+    FORM_DATE: 1999
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID69-G50-318-73.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID69-G50-318-73.PDF
+
+PARENTS:
+  FATHER: MID34-G49-406-36
+  MOTHER: MID52-G49-825-47
+
+MARRIAGES:
+  - PARTNER: MID19-G50-128-52
+    DATE: 2007-01-09
+    PLACE: Sacred Heart Church, Galle
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID74-G51-704-55
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID06-G51-964-07
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL

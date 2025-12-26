@@ -1,0 +1,61 @@
+ID: MID76-G50-178-94
+PROFILE_PICTURE: /Image/Contemporary/Dilini_Silva_Profile.jpg
+SHORT_NAME: Dilini Silva
+FULL_NAME: Dilini Silva
+
+ALTERNATE_NAMES:
+  - NAME: D. Silva
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Dilini Silva S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Silva
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Dilini Silva is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1972-09-20
+  PLACE: Nuwara Eliya
+  NOTES: Registered birth in Nuwara Eliya, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Nuwara Eliya, Sri Lanka
+    FORM_DATE: 1972
+    TO_DATE: 1992
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Hambantota, Sri Lanka
+    FORM_DATE: 1992
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Marketing Director
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 2003
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID76-G50-178-94.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID76-G50-178-94.PDF
+
+PARENTS:
+  FATHER: MID52-G49-546-56
+  MOTHER: MID00-G49-707-94
+
+MARRIAGES: UNMARRIED

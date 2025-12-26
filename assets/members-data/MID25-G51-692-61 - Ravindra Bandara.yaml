@@ -1,0 +1,69 @@
+ID: MID25-G51-692-61
+PROFILE_PICTURE: /Image/Contemporary/Ravindra_Bandara_Profile.jpg
+SHORT_NAME: Ravindra Bandara
+FULL_NAME: Ravindra Bandara
+
+ALTERNATE_NAMES:
+  - NAME: R. Bandara
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Ravindra Bandara B.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Bandara
+GENDER: MALE
+GENERAL_DESCRIPTION: >
+  Ravindra Bandara is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1973-09-15
+  PLACE: Kalutara
+  NOTES: Registered birth in Kalutara, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Kalutara, Sri Lanka
+    FORM_DATE: 1973
+    TO_DATE: 1993
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kandy, Sri Lanka
+    FORM_DATE: 1993
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Blue Ocean Holdings
+    FORM_DATE: 2000
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID25-G51-692-61.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID25-G51-692-61.PDF
+
+PARENTS:
+  FATHER: MID75-G50-569-96
+  MOTHER: MID21-G50-915-73
+
+MARRIAGES:
+  - PARTNER: MID91-G51-938-50
+    DATE: 1995-01-18
+    PLACE: Hindu Temple, Jaffna
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID57-G52-820-91
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL

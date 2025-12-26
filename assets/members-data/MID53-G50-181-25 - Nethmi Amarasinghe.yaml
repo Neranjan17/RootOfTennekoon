@@ -1,0 +1,75 @@
+ID: MID53-G50-181-25
+PROFILE_PICTURE: /Image/Contemporary/Nethmi_Amarasinghe_Profile.jpg
+SHORT_NAME: Nethmi Amarasinghe
+FULL_NAME: Nethmi Amarasinghe
+
+ALTERNATE_NAMES:
+  - NAME: N. Amarasinghe
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Nethmi Amarasinghe A.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Amarasinghe
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Nethmi Amarasinghe is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1976-12-27
+  PLACE: Badulla
+  NOTES: Registered birth in Badulla, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Badulla, Sri Lanka
+    FORM_DATE: 1976
+    TO_DATE: 1996
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 1996
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Senior Manager
+    INSTITUTION: Ocean Wave Industries
+    FORM_DATE: 2006
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID53-G50-181-25.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID53-G50-181-25.PDF
+
+PARENTS:
+  FATHER: MID24-G49-507-66
+  MOTHER: MID25-G49-587-65
+
+MARRIAGES:
+  - PARTNER: MID60-G50-789-89
+    DATE: 2009-12-17
+    PLACE: Buddhist Temple, Kandy
+    FATE: ONGOING
+    CHILDREN:
+      - CHILD: MID46-G51-773-07
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID27-G51-763-21
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID65-G51-996-07
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL

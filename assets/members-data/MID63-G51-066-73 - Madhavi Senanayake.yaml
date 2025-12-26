@@ -1,0 +1,78 @@
+ID: MID63-G51-066-73
+PROFILE_PICTURE: /Image/Contemporary/Madhavi_Senanayake_Profile.jpg
+SHORT_NAME: Madhavi Senanayake
+FULL_NAME: Madhavi Senanayake
+
+ALTERNATE_NAMES:
+  - NAME: M. Senanayake
+    CONTEXT: OFFICIAL_DOCUMENTS
+  - NAME: Madhavi Senanayake S.
+    CONTEXT: SOCIAL_REFERENCE
+
+FAMILY_NAME: Senanayake
+GENDER: FEMALE
+GENERAL_DESCRIPTION: >
+  Madhavi Senanayake is a contemporary professional with significant contributions
+  to the business and community sectors. Known for leadership qualities
+  and dedication to community service. Professional background includes
+  extensive experience in management and strategic planning.
+
+BIRTH:
+  DATE: 1986-10-11
+  PLACE: Ratnapura
+  NOTES: Registered birth in Ratnapura, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Ratnapura, Sri Lanka
+    FORM_DATE: 1986
+    TO_DATE: 2006
+    NOTES: Childhood and early education period.
+    
+  - PLACE: Kurunegala, Sri Lanka
+    FORM_DATE: 2006
+    TO_DATE: CURRENT
+    NOTES: Primary residence and professional base.
+
+ROLE_AND_STATUS:
+  - TITLE: Director of Operations
+    INSTITUTION: Sunrise Enterprises
+    FORM_DATE: 2012
+    TO_DATE: CURRENT
+    NOTES: Current professional position and responsibilities.
+
+SOURCES:
+  - SOURCE_NAME: Government ID Records
+    NOTE: Verified identity and birth information.
+    PATH: ASSIST/NIC_RECORDS_MID63-G51-066-73.PDF
+    
+  - SOURCE_NAME: Company Records
+    NOTE: Employment and role verification.
+    PATH: ASSIST/COMPANY_RECORDS_MID63-G51-066-73.PDF
+
+PARENTS:
+  FATHER: MID97-G50-179-36
+  MOTHER: MID55-G50-156-00
+
+MARRIAGES:
+  - PARTNER: MID50-G51-950-72
+    DATE: 2015-06-27
+    PLACE: Hilton Colombo
+    FATE: SEPARATED
+    CHILDREN:
+      - CHILD: MID28-G52-618-08
+        ORDER: 1
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID69-G52-912-75
+        ORDER: 2
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID18-G52-970-25
+        ORDER: 3
+        PARENTAGE: BIOLOGICAL
+      - CHILD: MID95-G52-407-59
+        ORDER: 4
+        PARENTAGE: ADOPTED

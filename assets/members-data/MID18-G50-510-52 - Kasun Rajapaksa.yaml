@@ -1,0 +1,46 @@
+ID: MID18-G50-510-52
+PROFILE_PICTURE: UNKNOWN
+SHORT_NAME: Kasun Rajapaksa
+FULL_NAME: Kasun Rajapaksa
+
+ALTERNATE_NAMES:
+  - NAME: K. Rajapaksa
+    CONTEXT: OFFICIAL_DOCUMENTS
+
+FAMILY_NAME: Rajapaksa
+GENDER: MALE
+GENERAL_DESCRIPTION: UNKNOWN
+
+BIRTH:
+  DATE: 2007-03-20
+  PLACE: Colombo
+  NOTES: Born in Colombo, Sri Lanka.
+
+DEATH:
+  DATE: UNKNOWN
+  PLACE: UNKNOWN
+  NOTES: UNKNOWN
+
+LIVED:
+  - PLACE: Colombo, Sri Lanka
+    FORM_DATE: 2007
+    TO_DATE: 2027
+    NOTES: Childhood and education.
+    
+  - PLACE: Chilaw, Sri Lanka
+    FORM_DATE: 2027
+    TO_DATE: CURRENT
+    NOTES: Current residence.
+
+ROLE_AND_STATUS:
+  - TITLE: Chief Executive Officer
+    INSTITUTION: Global Textile Mills
+    FORM_DATE: 2029
+    TO_DATE: CURRENT
+    NOTES: UNKNOWN
+
+PARENTS:
+  FATHER: UNKNOWN
+  MOTHER: UNKNOWN
+
+MARRIAGES: UNKNOWN
